@@ -1,0 +1,61 @@
+# ==================================
+# RafaTV Builder
+# Palabras prohibidas
+# ==================================
+
+# Religión
+religion
+religioso
+religious
+church
+jesus
+cristo
+catol
+católica
+catolico
+evangel
+evangelio
+biblia
+faith
+pray
+god
+worship
+
+# Infantil
+kids
+kid
+children
+child
+cartoon
+cartoons
+baby
+junior
+toon
+nick jr
+disney junior
+boomerang
+
+# Televentas
+shop
+shopping
+televenta
+venta
+shopping tv
+home shopping
+
+# Apuestas
+bet
+bets
+betting
+casino
+gambling
+poker
+bingo
+sportbet
+
+# Adultos
+xxx
+adult
+porn
+sex
+18+

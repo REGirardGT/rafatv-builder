@@ -1,0 +1,3 @@
+# Canales excluidos manualmente
+
+CNN Turk

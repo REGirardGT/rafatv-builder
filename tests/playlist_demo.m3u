@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="espn" group-title="Deportes",ESPN HD
+http://servidor1/espn
+
+#EXTINF:-1 tvg-id="espn" group-title="Deportes",ESPN FHD
+https://servidor2/espn
+
+#EXTINF:-1 tvg-id="cnn" group-title="Noticias",CNN HD
+https://servidor3/cnn
+
+#EXTINF:-1 tvg-id="cnn" group-title="Noticias",CNN SD
+http://servidor4/cnn
+
+#EXTINF:-1 tvg-id="natgeo" group-title="Documentales",National Geographic HD
+https://servidor5/natgeo

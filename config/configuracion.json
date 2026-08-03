@@ -1,0 +1,25 @@
+{
+    "bonificacion_favorito": 100,
+    "bonificacion_grupo": 20,
+    "bonificacion_pais": 15,
+    "bonificacion_dominio": 25,
+
+    "penalizacion_backup": -15,
+    "penalizacion_geo_blocked": -10,
+
+    "peso_tvg_id": 20,
+    "peso_grupo": 10,
+    "peso_logo": 10,
+
+    "peso_https": 10,
+    "peso_http": 5,
+
+    "peso_1080": 30,
+    "peso_720": 20,
+    "peso_hd": 15,
+    "peso_sd": 5,
+
+    "playlist_entrada": "https://iptv-org.github.io/iptv/index.m3u",
+    "playlist_salida": "output/RafaTV_filtrado.m3u",
+    "verificar_online": true
+}
