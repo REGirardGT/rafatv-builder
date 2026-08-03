@@ -1,0 +1,38 @@
+name: RafaTV Builder Pipeline Auto-Update
+
+# Programa la ejecución automática (ejemplo: Todos los días a las 03:00 UTC)
+# También permite ejecutarlo manualmente desde GitHub cuando quieras.
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar el código fuente del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar entorno de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias necesarias
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # Instalamos dependencias comunes de red si no usas requirements.txt
+          pip install aiohttp asyncio
+
+      - name: Ejecutar el pipeline de procesamiento (main.py)
+        run: |
+          python main.py
+
+      - name: Publicar la lista M3U generada en GitHub Pages / Artefactos
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: Nueva lista IPTV generada [skip ci]"
+          file_pattern: "output/*"
