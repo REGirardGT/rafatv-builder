@@ -6,6 +6,9 @@
 from pathlib import Path
 from builder.filtros import limpiar_grupo
 
+# User-Agent estándar para evitar bloqueos HTTP 403 en reproductores IPTV
+USER_AGENT_DEFAULT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
 def reconstruir_extinf(canal):
     """
     Construye la línea #EXTINF con sintaxis estándar para Smart TVs y TiviMate.
@@ -31,8 +34,9 @@ def reconstruir_extinf(canal):
     if hasattr(canal, "idioma") and canal.idioma:
         atributos.append(f'tvg-language="{canal.idioma}"')
 
-    # Grupo / Categoría (Fundamental para la organización en pantalla)
-    grupo_limpio = limpiar_grupo(canal.grupo)
+    # Grupo / Categoría (Prioriza el group_title normalizado en main.py)
+    grupo_base = getattr(canal, "group_title", getattr(canal, "grupo", "General"))
+    grupo_limpio = limpiar_grupo(grupo_base)
     atributos.append(f'group-title="{grupo_limpio}"')
 
     cadena_atributos = " ".join(atributos)
@@ -53,4 +57,10 @@ def exportar_m3u(canales, archivo_salida):
             # Generar tag enriquecido
             linea_extinf = reconstruir_extinf(canal)
             f.write(linea_extinf + "\n")
+            
+            # Directiva para que TiviMate / VLC envíen el User-Agent (Previene error 403)
+            user_agent = getattr(canal, "user_agent", USER_AGENT_DEFAULT)
+            f.write(f'#EXTVLCOPT:http-user-agent={user_agent}\n')
+            
+            # URL del canal
             f.write(canal.url + "\n")
