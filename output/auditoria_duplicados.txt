@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1499
+Total de decisiones: 1502
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 798
-Mayor puntuación     : 683
+Mayor puntuación     : 686
 Mayor resolución     : 17
 HTTPS                : 1
 
@@ -2811,15 +2811,15 @@ Canal: BabyFirst (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 65
-  Dominio    : 206.212.244.63
-  URL        : http://206.212.244.63/639/index.m3u8
+  Puntuación : 70
+  Dominio    : cdn.fast.jwp.services
+  URL        : https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
-       +5  HTTP
+      +10  HTTPS
 
 Perdedor
   Puntuación : 50
@@ -5803,6 +5803,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: CCTV-6 (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 69.30.245.50
+  URL        : http://69.30.245.50/live/cctv6.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 40
+  Dominio    : live.eac-news.com
+  URL        : https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: CCTV-13 (1080p)
 Motivo: Mayor puntuación
 
@@ -8636,8 +8663,8 @@ Ganador
 
 Perdedor
   Puntuación : 65
-  Dominio    : 206.212.244.63
-  URL        : http://206.212.244.63/650/index.m3u8
+  Dominio    : 190.14.10.19:16000
+  URL        : http://190.14.10.19:16000/play/a06z/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -18621,33 +18648,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: NBC News NOW (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : d1si3n1st4nkgb.cloudfront.net
-  URL        : https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 65
-  Dominio    : 206.212.244.63
-  URL        : http://206.212.244.63/127/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: NBC West (San Diego) (1080p) [Not 24/7]
 Motivo: Mayor puntuación
 
@@ -19500,19 +19500,20 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nicktoons (1080p)
+Canal: Nicktoons (1080p) [Geo-blocked]
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
-  Dominio    : 206.212.244.63
-  URL        : http://206.212.244.63/3151/index.m3u8
+  Puntuación : 70
+  Dominio    : messi.damitv.st
+  URL        : https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
+      -10  Canal geo-blocked
+      +10  HTTPS
 
 Perdedor
   Puntuación : 50
@@ -27118,30 +27119,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Scares by Shudder (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : 206.212.244.63
-  URL        : http://206.212.244.63/147/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 20
-  Dominio    : amc-scaresbyshudder-1-us.xumo.wurl.tv
-  URL        : https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8
-  Detalle:
-      +10  Grupo identificado
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Schwab Network (1080p)
 Motivo: Mayor puntuación
 
@@ -34023,10 +34000,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TVN (1080p)
+Canal: TVN (1080p) [Not 24/7]
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 80
+  Dominio    : 5790d294af2dc.streamlock.net
+  URL        : https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 75
   Dominio    : 45.162.193.35
   URL        : http://45.162.193.35/TVN/index.m3u8
@@ -34036,6 +34024,22 @@ Ganador
       +10  Logo
       +30  Calidad 1080p
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: TVN (1080p) [Not 24/7]
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : 5790d294af2dc.streamlock.net
+  URL        : https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
 
 Perdedor
   Puntuación : 70
@@ -35060,6 +35064,32 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.29
+  URL        : http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Viasat Explore (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 65
   Dominio    : 185.102.171.218
   URL        : http://185.102.171.218/ViasatExplorer/index.m3u8
@@ -35139,6 +35169,32 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.29
+  URL        : http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Viasat History (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 65
   Dominio    : 185.102.171.218
   URL        : http://185.102.171.218/ViasatHistory/index.m3u8
@@ -35200,6 +35256,31 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Viasat Nature
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.29
+  URL        : http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
