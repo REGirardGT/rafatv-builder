@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1502
+Total de decisiones: 1503
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 798
-Mayor puntuación     : 686
+Mayor puntuación     : 687
 Mayor resolución     : 17
 HTTPS                : 1
 
@@ -11483,6 +11483,32 @@ Perdedor
   Detalle:
       +10  Grupo identificado
       +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Green Gold TV HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : vglivessai.akamaized.net
+  URL        : https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : vglivessai.akamaized.net
+  URL        : https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -30445,14 +30471,13 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 70
-  Dominio    : streamtv.intervenhosting.net:3161
-  URL        : https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+  Puntuación : 50
+  Dominio    : streamtv.intervenhosting.net:3531
+  URL        : https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
       +10  HTTPS
 
 --------------------------------------------------
