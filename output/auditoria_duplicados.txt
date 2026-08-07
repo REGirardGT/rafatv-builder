@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1503
+Total de decisiones: 1509
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 798
-Mayor puntuación     : 687
+Primer canal         : 799
+Mayor puntuación     : 692
 Mayor resolución     : 17
 HTTPS                : 1
 
@@ -7020,6 +7020,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Colors Infinity HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 149.71.34.166:8002
+  URL        : http://149.71.34.166:8002/play/a01d/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 103.175.73.12:8080
+  URL        : http://103.175.73.12:8080/live/29/29_0.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Colors Kannada HD (1080p)
 Motivo: Mayor puntuación
 
@@ -9721,6 +9747,58 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: ETV Cinema HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : d27zlkxhgwrfgo.cloudfront.net
+  URL        : https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : yupplivegcpusa.yuppcdn.net
+  URL        : https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: ETV Plus HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : d12ee3o8yfkkhd.cloudfront.net
+  URL        : https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : yupplivegcpusa.yuppcdn.net
+  URL        : https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Euro TV (720p) [Not 24/7]
 Motivo: Mayor puntuación
 
@@ -11491,24 +11569,22 @@ Canal: Green Gold TV HD
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 65
+  Puntuación : 55
   Dominio    : vglivessai.akamaized.net
   URL        : https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
-      +10  Logo
       +15  Calidad HD
       +10  HTTPS
 
 Perdedor
-  Puntuación : 50
+  Puntuación : 40
   Dominio    : vglivessai.akamaized.net
   URL        : https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
-      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -19243,6 +19319,31 @@ Perdedor
 --------------------------------------------------
 
 Canal: Nickelodeon
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : ma.anixa.tv
+  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : thinkkast.dpdns.org
+  URL        : https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Nickelodeon
 Motivo: Mayor puntuación
 
 Ganador
@@ -19526,20 +19627,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nicktoons (1080p) [Geo-blocked]
+Canal: Nicktoons (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : messi.damitv.st
-  URL        : https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 40.160.24.55
+  URL        : http://40.160.24.55/NICKTOONS/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
-      -10  Canal geo-blocked
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 50
@@ -25333,10 +25433,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Raj TV (720p) [Not 24/7]
+Canal: Raj TV (1080p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 80
+  Dominio    : livestream.rajtv.tv
+  URL        : https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 70
   Dominio    : ottst05.flexitv.sk
   URL        : https://ottst05.flexitv.sk/2827-tv-pc.m3u8
@@ -25346,16 +25457,6 @@ Ganador
       +10  Logo
       +20  Calidad 720p
       +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 103.72.101.252:8080
-  URL        : http://103.72.101.252:8080/live/707.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -27668,6 +27769,33 @@ Perdedor
   URL        : https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
   Detalle:
       +10  Grupo identificado
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Sony Pix HD (1080p) [Geo-blocked]
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : sl.vodep39240327.workers.dev
+  URL        : https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : playyonogames.in
+  URL        : https://playyonogames.in/sliv/stream.m3u8?id=1000009258
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -35408,6 +35536,31 @@ Perdedor
   Detalle:
       +10  Grupo identificado
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Vision (480p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : lbgo.bozztv.com
+  URL        : https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 103.85.204.205:1935
+  URL        : http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
