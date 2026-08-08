@@ -89,6 +89,9 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD" tvg-name="Daystar Español (720p)" tvg-logo="https://i.imgur.com/4nP7j4M.png" group-title="España",Daystar Español (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS Sport" tvg-name="DAZN TV (720p)" group-title="Estados Unidos",DAZN TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 tvg-id="DespertarTV.br@HD" tvg-name="Despertar TV (720p)" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="España",Despertar TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://br.conectmy.com.br/DespertarTV/index.m3u8
@@ -269,9 +272,6 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@USA" tvg-name="NOW News USA (1080p)" tvg-logo="https://i.imgur.com/MfyRQCs.png" group-title="Estados Unidos",NOW News USA (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
-#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-name="Nusantara TV (1080p)" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Estados Unidos",Nusantara TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-name="Paraguay TV (1080p)" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay",Paraguay TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
@@ -473,9 +473,6 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" tvg-name="USA Network Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Estados Unidos",USA Network Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://138.121.15.230:9002/USA/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil" tvg-name="USA Network Latin America Brazil (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Estados Unidos",USA Network Latin America Brazil (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://177.52.24.163/USA-HD/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@West" tvg-name="USA Network West (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Estados Unidos",USA Network West (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
@@ -500,3 +497,18 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 #EXTINF:-1 tvg-id="YuGiOhenespanol.us@SD" tvg-name="Yu-Gi-Oh! en espanol (1080p)" tvg-logo="https://i.imgur.com/VH8RiHg.png" group-title="España",Yu-Gi-Oh! en espanol (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="YES.usa" tvg-name="YES Net" group-title="Estados Unidos",YES Net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MLB usa" tvg-name="MLB US" group-title="Estados Unidos",MLB US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
+#EXTINF:-1 tvg-id="FS1" tvg-name="FS1" group-title="Estados Unidos",FS1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="Fox Sport 1" tvg-name="Fox S1" group-title="Estados Unidos",Fox S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sport" tvg-name="Fox Sp" group-title="Estados Unidos",Fox Sp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8

@@ -1,7 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="YES.us" group-title="Estados Unidos", YES Network
+#EXTINF:-1 tvg-id="YES.us" group-title="USA Entertainment", YES Network
 https://URL_REAL_DE_TU_STREAM_YES.m3u8
 
-#EXTINF:-1 tvg-id="MLB.us" group-title="Deportes", MLB Network
+#EXTINF:-1 tvg-id="MLB.us" group-title="USA Entertainment", MLB Network
 https://URL_REAL_DE_TU_STREAM_MLB.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA Entertainment",FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA Entertainment",Fox Sports (720p)
+https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="USA Entertainment",beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-id="YES.usa" group-title="USA Entertainment", YES Net
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="MLB usa" group-title="USA Entertainment", MLB US
+https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1" group-title="USA Entertainment", FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport 1" group-title="USA Entertainment", Fox S1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport" group-title="USA Entertainment", Fox Sp
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF:-1 tvg-id="CBS Sport" group-title="USA Entertainment", CBS Sports Network USA (1080p)
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS Sport" group-title="USA Entertainment", DAZN TV (720p)
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
+#EXTINF:-1 tvg-id="CBS Sport" group-title="USA Entertainment", DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
