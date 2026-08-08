@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1509
+Total de decisiones: 1500
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 799
-Mayor puntuación     : 692
+Primer canal         : 795
+Mayor puntuación     : 687
 Mayor resolución     : 17
 HTTPS                : 1
 
@@ -2946,33 +2946,6 @@ Perdedor
       +30  Calidad 1080p
       -10  Canal geo-blocked
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: BBC Earth (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
-  URL        : https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 75
-  Dominio    : starcius-cinema.com
-  URL        : http://starcius-cinema.com/11586/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -7947,31 +7920,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Da Vinci (576p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 45
-  Dominio    : starcius-cinema.com
-  URL        : http://starcius-cinema.com/11588/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : hls127.freeott.top:8080
-  URL        : http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Dallas Cowboys Cheerleaders
 Motivo: Primer canal
 
@@ -11181,33 +11129,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: FX (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 23.237.104.106:8080
-  URL        : http://23.237.104.106:8080/USA_FX/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 65
-  Dominio    : 185.102.171.218
-  URL        : http://185.102.171.218/FOX/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -18512,8 +18433,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : starcius-cinema.com
-  URL        : http://starcius-cinema.com/11583/index.m3u8
+  Dominio    : hls127.freeott.top:8080
+  URL        : http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -18535,39 +18456,12 @@ Perdedor
 --------------------------------------------------
 
 Canal: National Geographic Wild (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 75
-  Dominio    : starcius-cinema.com
-  URL        : http://starcius-cinema.com/11583/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 75
-  Dominio    : hls127.freeott.top:8080
-  URL        : http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: National Geographic Wild (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : starcius-cinema.com
-  URL        : http://starcius-cinema.com/11583/index.m3u8
+  Dominio    : hls127.freeott.top:8080
+  URL        : http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -18594,8 +18488,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : starcius-cinema.com
-  URL        : http://starcius-cinema.com/11583/index.m3u8
+  Dominio    : hls127.freeott.top:8080
+  URL        : http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -18621,8 +18515,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : starcius-cinema.com
-  URL        : http://starcius-cinema.com/11583/index.m3u8
+  Dominio    : hls127.freeott.top:8080
+  URL        : http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -18648,8 +18542,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 75
-  Dominio    : starcius-cinema.com
-  URL        : http://starcius-cinema.com/11583/index.m3u8
+  Dominio    : hls127.freeott.top:8080
+  URL        : http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -26332,33 +26226,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: ROCK Action (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : nmk.ioapk.com:5050
-  URL        : http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 60
-  Dominio    : 202.169.224.202:8800
-  URL        : http://202.169.224.202:8800/udp/239.9.1.1:1234
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Rock Channel (720p)
 Motivo: Primer canal
 
@@ -27773,33 +27640,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Sony Pix HD (1080p) [Geo-blocked]
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : sl.vodep39240327.workers.dev
-  URL        : https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      -10  Canal geo-blocked
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : playyonogames.in
-  URL        : https://playyonogames.in/sliv/stream.m3u8?id=1000009258
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: South Park
 Motivo: Primer canal
 
@@ -28719,32 +28559,6 @@ Perdedor
   Puntuación : 45
   Dominio    : 213.91.179.28:8000
   URL        : http://213.91.179.28:8000/play/a0c9
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Star Channel (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : 138.121.15.230:9002
-  URL        : http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 86.87.15.10:8003
-  URL        : http://86.87.15.10:8003/play/a024/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -32382,33 +32196,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TNT Novelas (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 75
-  Dominio    : 15.204.246.24:8080
-  URL        : http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 75
-  Dominio    : 138.186.23.7:8082
-  URL        : http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Top Rank Classics (1080p)
 Motivo: Mayor puntuación
 
@@ -35024,33 +34811,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: USA Network Latin America (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 75
-  Dominio    : 138.121.15.230:9002
-  URL        : http://138.121.15.230:9002/USA/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 75
-  Dominio    : 138.186.23.7:8082
-  URL        : http://138.186.23.7:8082/SYFY/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: UTV (1080p)
 Motivo: Mayor puntuación
 
@@ -36580,19 +36340,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Zee Marathi HD (1080p)
+Canal: Zee Marathi HD (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
-  Dominio    : 103.72.101.252:8080
-  URL        : http://103.72.101.252:8080/live/1360.m3u8
+  Puntuación : 70
+  Dominio    : raw.githubusercontent.com
+  URL        : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
+      +20  Calidad 720p
+      +10  HTTPS
 
 Perdedor
   Puntuación : 45
