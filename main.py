@@ -97,7 +97,18 @@ def main():
         print("\nRevise config/configuracion.json")
         return
 
+    # 1. Leer playlist principal (iptv-org)
     canales = leer_canales(CONFIGURACION["playlist_entrada"])
+
+    # 2. Leer canales personalizados locales (Si el archivo existe)
+    ruta_custom = Path("data/custom.m3u")  # O la ruta donde guardes tu custom.m3u
+    if ruta_custom.exists():
+        canales_custom = leer_canales(str(ruta_custom))
+        # Damos máxima prioridad o puntuación a tus canales personalizados
+        for c in canales_custom:
+            c.es_custom = True
+        canales.extend(canales_custom)
+
     total_canales = len(canales)
 
     motor = MotorReglas()
