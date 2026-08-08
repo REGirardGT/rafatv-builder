@@ -16386,13 +16386,13 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 35
-  Dominio    : url-de-tu-canal-mlb.m3u8
-  URL        : http://url-de-tu-canal-mlb.m3u8
+  Puntuación : 40
+  Dominio    : url_real_de_tu_stream_mlb.m3u8
+  URL        : https://URL_REAL_DE_TU_STREAM_MLB.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
-       +5  HTTP
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -36326,13 +36326,13 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 35
-  Dominio    : url-de-tu-canal-yes.m3u8
-  URL        : http://url-de-tu-canal-yes.m3u8
+  Puntuación : 40
+  Dominio    : url_real_de_tu_stream_yes.m3u8
+  URL        : https://URL_REAL_DE_TU_STREAM_YES.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
-       +5  HTTP
+      +10  HTTPS
 
 --------------------------------------------------
 
