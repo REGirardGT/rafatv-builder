@@ -6,8 +6,8 @@ Total de decisiones: 1508
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 795
-Mayor puntuación     : 695
+Primer canal         : 794
+Mayor puntuación     : 696
 Mayor resolución     : 17
 HTTPS                : 1
 
@@ -3747,32 +3747,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: BET (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : gpuserver3.tier1streams.com
-  URL        : https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: BET Pluto TV
 Motivo: Primer canal
 
@@ -6202,6 +6176,33 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 70
+  Dominio    : cdn.qd.je
+  URL        : https://cdn.qd.je/163189/ch8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Channel 8 (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : gra1.crystalweb.net:1936
+  URL        : https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 75
   Dominio    : usa.login.in.th:1935
   URL        : http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
@@ -6883,33 +6884,6 @@ Perdedor
       +10  Logo
       +30  Calidad 1080p
       -10  Canal geo-blocked
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: CNBC (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : gpuserver3.tier1streams.com
-  URL        : https://gpuserver3.tier1streams.com/CNBC/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 80
-  Dominio    : amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv
-  URL        : https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
       +10  HTTPS
 
 --------------------------------------------------
@@ -14421,6 +14395,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: La 1 (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : ztnr.rtve.es
+  URL        : https://ztnr.rtve.es/ztnr/1688877.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 60
+  Dominio    : 185.47.212.25:8080
+  URL        : http://185.47.212.25:8080/tdp_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
        +5  HTTP
 
 --------------------------------------------------
