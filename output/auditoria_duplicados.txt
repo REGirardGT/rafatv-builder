@@ -2,14 +2,14 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1508
+Total de decisiones: 1513
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 794
-Mayor puntuación     : 696
+Mayor puntuación     : 700
 Mayor resolución     : 17
-HTTPS                : 1
+HTTPS                : 2
 
 ==================================================
 
@@ -1694,20 +1694,9 @@ Perdedor
 --------------------------------------------------
 
 Canal: Arena Sport 4 (1080p)
-Motivo: Primer canal
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : nl1.nghk.ai
-  URL        : https://nl1.nghk.ai/ArenaSport4BH/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 80
   Dominio    : nl1.nghk.ai
   URL        : https://nl1.nghk.ai/AS4HRHD/index.m3u8
@@ -1718,6 +1707,16 @@ Perdedor
       +30  Calidad 1080p
       +10  HTTPS
 
+Perdedor
+  Puntuación : 50
+  Dominio    : 7nyaler.streamhostingcdn.top
+  URL        : https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
 --------------------------------------------------
 
 Canal: Arena Sport 4 (1080p)
@@ -1726,7 +1725,7 @@ Motivo: Primer canal
 Ganador
   Puntuación : 80
   Dominio    : nl1.nghk.ai
-  URL        : https://nl1.nghk.ai/ArenaSport4BH/index.m3u8
+  URL        : https://nl1.nghk.ai/AS4HRHD/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -14399,18 +14398,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: La 1 (720p)
+Canal: La 1 (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : ztnr.rtve.es
-  URL        : https://ztnr.rtve.es/ztnr/1688877.m3u8
+  Puntuación : 80
+  Dominio    : 7nyaler.streamhostingcdn.top
+  URL        : https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
       +10  HTTPS
 
 Perdedor
@@ -17041,21 +17040,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: MTV (1080p)
+Canal: MTV (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
-  Dominio    : 103.72.101.252:8080
-  URL        : http://103.72.101.252:8080/live/248.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
   Puntuación : 65
   Dominio    : 41.205.70.146
   URL        : http://41.205.70.146/MTVFRANCE/index.m3u8
@@ -17066,20 +17054,30 @@ Perdedor
       +20  Calidad 720p
        +5  HTTP
 
---------------------------------------------------
-
-Canal: MTV (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 103.72.101.252:8080
-  URL        : http://103.72.101.252:8080/live/248.m3u8
+Perdedor
+  Puntuación : 50
+  Dominio    : da86m1sqpm3o0.cloudfront.net
+  URL        : https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: MTV (720p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 65
+  Dominio    : 41.205.70.146
+  URL        : http://41.205.70.146/MTVFRANCE/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
        +5  HTTP
 
 Perdedor
@@ -17095,29 +17093,29 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: MTV (1080p)
-Motivo: Primer canal
+Canal: MTV HD
+Motivo: HTTPS
 
 Ganador
-  Puntuación : 75
-  Dominio    : 103.72.101.252:8080
-  URL        : http://103.72.101.252:8080/live/248.m3u8
+  Puntuación : 65
+  Dominio    : maamusic.keralive.workers.dev
+  URL        : https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
+      +15  Calidad HD
+      +10  HTTPS
 
 Perdedor
-  Puntuación : 75
-  Dominio    : 149.71.34.166:8000
-  URL        : http://149.71.34.166:8000/play/a00p/index.m3u8
+  Puntuación : 65
+  Dominio    : 41.205.70.146
+  URL        : http://41.205.70.146/MTVFRANCE/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
+      +20  Calidad 720p
        +5  HTTP
 
 --------------------------------------------------
@@ -19338,138 +19336,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 50
-  Dominio    : ma.anixa.tv
-  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 88.212.15.19
-  URL        : http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Nickelodeon
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 50
-  Dominio    : ma.anixa.tv
-  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : bethoven.af-stream.com:1600
-  URL        : http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Nickelodeon
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : ma.anixa.tv
-  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : thinkkast.dpdns.org
-  URL        : https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Nickelodeon
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 50
-  Dominio    : ma.anixa.tv
-  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : stream.mcquack.net
-  URL        : http://stream.mcquack.net/443/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Nickelodeon
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 50
-  Dominio    : ma.anixa.tv
-  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : tvsen7.aynascope.net
-  URL        : http://tvsen7.aynascope.net/nicklodean/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Nickelodeon (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 23.237.104.106:8080
-  URL        : http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -19486,6 +19359,163 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Nickelodeon (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.19
+  URL        : http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : bethoven.af-stream.com:1600
+  URL        : http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : thinkkast.dpdns.org
+  URL        : https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Nickelodeon (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/443/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : tvsen7.aynascope.net
+  URL        : http://tvsen7.aynascope.net/nicklodean/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 23.237.104.106:8080
+  URL        : http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -24900,6 +24930,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Premier Sports 2 (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv
+  URL        : https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : 7nyaler.streamhostingcdn.top
+  URL        : https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Prime (1080p)
 Motivo: Mayor puntuación
 
@@ -27608,6 +27664,58 @@ Perdedor
   Puntuación : 50
   Dominio    : stream.skynewsarabia.com
   URL        : https://stream.skynewsarabia.com/vertical/vertical.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Sky Sports Cricket HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : xemzi.short.gy
+  URL        : https://xemzi.short.gy/2000006
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : 7nyaler.streamhostingcdn.top
+  URL        : https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Sky Sports Main Event HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : xemzi.short.gy
+  URL        : https://xemzi.short.gy/2000001
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : 7nyaler.streamhostingcdn.top
+  URL        : https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -32245,7 +32353,7 @@ Perdedor
 --------------------------------------------------
 
 Canal: Tigo Sports (1080p)
-Motivo: Mayor puntuación
+Motivo: Primer canal
 
 Ganador
   Puntuación : 80
@@ -32259,14 +32367,14 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 70
-  Dominio    : live.enhdtv.com:8081
-  URL        : https://live.enhdtv.com:8081/8160/index.m3u8
+  Puntuación : 80
+  Dominio    : d3kzwqwnq1f7tq.cloudfront.net
+  URL        : https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
       +10  HTTPS
 
 --------------------------------------------------
@@ -33613,18 +33721,45 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TV1000
+Canal: TV 100 (720p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 70
+  Dominio    : gwebstream.net
+  URL        : https://gwebstream.net/hls/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 50
-  Dominio    : lb.dstvmultimedia.com
-  URL        : https://lb.dstvmultimedia.com/NovaMax/index.m3u8
+  Dominio    : 7nyaler.streamhostingcdn.top
+  URL        : https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: TV1000 (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/TV1000/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45

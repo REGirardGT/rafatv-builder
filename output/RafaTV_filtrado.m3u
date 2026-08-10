@@ -41,9 +41,6 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="España",CBS en español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-name="CBS Sports Network USA (1080p)" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Estados Unidos",CBS Sports Network USA (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-name="CGTN Español (1080p)" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="España",CGTN Español (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -131,9 +128,6 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-name="ESPN Deportes (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="España",ESPN Deportes (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="ESPNews.us@SD" tvg-name="ESPNews (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" group-title="España",ESPNews (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-name="ESPNU (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="España",ESPNU (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
@@ -395,6 +389,9 @@ https://lotus.stingray.com/manifest/ose-226ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-name="Stingray Pop Mexicano 80s (1080p)" group-title="México",Stingray Pop Mexicano 80s (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lotus.stingray.com/manifest/ose-218ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="SuperQPanama.pa@SD" tvg-name="Súper Q Panamá (1080p)" tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="Panamá",Súper Q Panamá (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 #EXTINF:-1 tvg-name="Survivor México" group-title="México",Survivor México
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-69fca9dd14a5dfae8875a3be.m3u8
@@ -404,6 +401,9 @@ https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNEspana.es@SD" tvg-name="TBN España (576p)" tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="España",TBN España (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-id="TDIColombia.co@SD" tvg-name="TDI Colombia (720p)" tvg-logo="https://i.imgur.com/svNeBNv.png" group-title="Colombia",TDI Colombia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.amelbatv.co:81/tdicolombiatv/index.m3u8
 #EXTINF:-1 tvg-name="Team USA (1080p)" group-title="Estados Unidos",Team USA (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
@@ -506,9 +506,6 @@ https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="YES.usa" tvg-name="YES Net" group-title="Estados Unidos",YES Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MLB usa" tvg-name="MLB US" group-title="Estados Unidos",MLB US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
 #EXTINF:-1 tvg-id="FS1" tvg-name="FS1" group-title="Estados Unidos",FS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://stream.fs1.tv:8080/hls/webstream.m3u8
