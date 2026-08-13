@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1424
+Total de decisiones: 1426
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 757
-Mayor puntuación     : 647
+Mayor puntuación     : 649
 Mayor resolución     : 18
 HTTPS                : 2
 
@@ -7004,32 +7004,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: Comedy TV (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : gpuserver3.tier1streams.com
-  URL        : https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 31.146.5.178:8087
-  URL        : http://31.146.5.178:8087/play/a00b/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -19919,6 +19893,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: PBO (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 190.93.224.42
+  URL        : http://190.93.224.42/PBO/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : streams.comclark.com
+  URL        : https://streams.comclark.com/pknsd/pbo/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: PBS History (1080p)
 Motivo: Primer canal
 
@@ -30648,6 +30648,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: TMC (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 151.80.18.177:86
+  URL        : http://151.80.18.177:86/TMC/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : streams.comclark.com
+  URL        : https://streams.comclark.com/pknsd/tmc/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: TNA Wrestling (1080p)
 Motivo: Mayor puntuación
 
@@ -31975,6 +32001,34 @@ Perdedor
   Puntuación : 40
   Dominio    : rtvelivestream-rtveplayplus.rtve.es
   URL        : https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: TVE Internacional Europe HD (1080p) [Geo-blocked]
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : rtvelivestream-rtveplayplus.rtve.es
+  URL        : https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 40
+  Dominio    : rtvelivestream-rtveplayplus.rtve.es
+  URL        : https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
