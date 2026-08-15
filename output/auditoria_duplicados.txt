@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1417
+Total de decisiones: 1418
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 759
-Mayor puntuación     : 637
+Mayor puntuación     : 638
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -8179,14 +8179,15 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 65
-  Dominio    : 190.14.10.19:16000
-  URL        : http://190.14.10.19:16000/play/a06z/index.m3u8
+  Puntuación : 55
+  Dominio    : 212.5.144.156
+  URL        : http://212.5.144.156/disney/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
+      -10  Canal geo-blocked
        +5  HTTP
 
 --------------------------------------------------
@@ -33147,6 +33148,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Viasat History (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 70
+  Dominio    : nord.ayakkabiparti.lol
+  URL        : https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
       +10  HTTPS
 
 --------------------------------------------------
