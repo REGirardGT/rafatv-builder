@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1418
+Total de decisiones: 1422
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 759
-Mayor puntuación     : 638
+Primer canal         : 760
+Mayor puntuación     : 641
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -6453,6 +6453,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: CNA (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : live1.mediadesk.al
+  URL        : https://live1.mediadesk.al/cnatvlive.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : streams.comclark.com
+  URL        : https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: CNBC (1080p)
 Motivo: Mayor puntuación
 
@@ -8982,6 +9008,60 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: ESPN Deportes HD (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : gpuserver7.tier1streams.com
+  URL        : https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 40.160.24.58
+  URL        : http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: ESPNU (720p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 65
+  Dominio    : 23.237.104.106:8080
+  URL        : http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 85.237.89.160:9590
+  URL        : http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Esport3 (1080p) [Not 24/7]
 Motivo: Mayor puntuación
 
@@ -10568,6 +10648,33 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: FX Movie Channel HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : sra72yz.s.gy
+  URL        : https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 40.160.24.56
+  URL        : http://40.160.24.56/FXM_SD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -18130,34 +18237,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: NHK World-Japan (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : masterpl.hls.nhkworld.jp
-  URL        : https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 70
-  Dominio    : nhk.lls.pbs.org
-  URL        : https://nhk.lls.pbs.org/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      -10  Canal geo-blocked
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Nick Jr.
 Motivo: Primer canal
 
@@ -18678,19 +18757,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nicktoons (720p)
+Canal: Nicktoons (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 65
-  Dominio    : 40.160.24.55
-  URL        : http://40.160.24.55/NICKTOONS/index.m3u8
+  Puntuación : 80
+  Dominio    : sra72yz.s.gy
+  URL        : https://sra72yz.s.gy/NICKTOONS_US.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
+      +30  Calidad 1080p
+      +10  HTTPS
 
 Perdedor
   Puntuación : 50
@@ -27199,6 +27278,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Star Channel (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : 138.121.15.230:9002
+  URL        : http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : streams.comclark.com
+  URL        : https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
