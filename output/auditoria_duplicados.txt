@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1425
+Total de decisiones: 1427
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 765
-Mayor puntuación     : 639
+Mayor puntuación     : 641
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -27876,6 +27876,32 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 45
+  Dominio    : forever.megogo.xyz
+  URL        : http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Star TV (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : cdn4.skygo.mn
+  URL        : https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 70
   Dominio    : dogus.daioncdn.net
   URL        : https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
@@ -29080,6 +29106,32 @@ Perdedor
       +10  Logo
       +30  Calidad 1080p
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Telemundo West HD (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : streamer.metronethn.com
+  URL        : https://streamer.metronethn.com/Telemundo/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 168.228.44.241:9997
+  URL        : http://168.228.44.241:9997/play/a07g/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
