@@ -431,6 +431,12 @@ https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
 #EXTINF:-1 tvg-id="TVDifusao.br@SD" tvg-name="TV Difusao (720p)" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png" group-title="Estados Unidos",TV Difusao (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaArgentina.ar@SD" tvg-name="TV Maná Argentina (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="Argentina",TV Maná Argentina (576p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEspanhol.pt@SD" tvg-name="TV Maná Español (1080p)" tvg-logo="https://i.imgur.com/sUlrSwP.png" group-title="España",TV Maná Español (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversalEcuador.ec@SD" tvg-name="TV Universal Ecuador (720p)" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Ecuador",TV Universal Ecuador (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8

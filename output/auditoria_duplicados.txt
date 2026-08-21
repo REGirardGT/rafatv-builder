@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1428
+Total de decisiones: 1431
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 766
-Mayor puntuación     : 640
+Mayor puntuación     : 643
 Mayor resolución     : 20
 HTTPS                : 2
 
@@ -316,6 +316,33 @@ Perdedor
   URL        : https://jmp2.uk/plu-68c8203efef6d8a2a6f13906.m3u8
   Detalle:
       +10  Grupo identificado
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: &pictures HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 103.72.101.252:8080
+  URL        : http://103.72.101.252:8080/live/185.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 70
+  Dominio    : tvsen3.aynaott.com
+  URL        : https://tvsen3.aynaott.com/jzT482XQ/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
       +10  HTTPS
 
 --------------------------------------------------
@@ -2087,6 +2114,33 @@ Perdedor
       +10  Logo
       +30  Calidad 1080p
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: ATV (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : live.zendzend.com
+  URL        : https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 5.254.89.106
+  URL        : http://5.254.89.106/8709/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -6427,32 +6481,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: CNA (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : live1.mediadesk.al
-  URL        : https://live1.mediadesk.al/cnatvlive.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : streams.comclark.com
-  URL        : https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: CNN Headlines
 Motivo: Primer canal
 
@@ -7838,8 +7866,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : cdn-2.pishow.tv
-  URL        : https://cdn-2.pishow.tv/live/12/master.m3u8
+  Dominio    : streams.tangotv.in
+  URL        : https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -8976,6 +9004,33 @@ Perdedor
   Detalle:
       +10  Grupo identificado
       +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: ESPN (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 181.78.197.59:8000
+  URL        : http://181.78.197.59:8000/play/a07z/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : sra72yz.s.gy
+  URL        : https://sra72yz.s.gy/ESPN_UHD_NL.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
       +10  HTTPS
 
 --------------------------------------------------
@@ -14949,8 +15004,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : yuppmedtaorire.akamaized.net
-  URL        : https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+  Dominio    : mumt03.tangotv.in
+  URL        : https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -30851,6 +30906,33 @@ Perdedor
       +10  Logo
        +5  Calidad SD
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Top Channel (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 5.254.89.106
+  URL        : http://5.254.89.106/8708/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 70
+  Dominio    : fr.crystalweb.net:1936
+  URL        : https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
 
 --------------------------------------------------
 
