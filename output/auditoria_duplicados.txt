@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1431
+Total de decisiones: 1432
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 766
-Mayor puntuación     : 644
+Mayor puntuación     : 645
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -9008,33 +9008,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: ESPN (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 181.78.197.59:8000
-  URL        : http://181.78.197.59:8000/play/a07z/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 65
-  Dominio    : sra72yz.s.gy
-  URL        : https://sra72yz.s.gy/ESPN_UHD_NL.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: ESPNU (720p)
 Motivo: Primer canal
 
@@ -9520,6 +9493,32 @@ Perdedor
   Puntuación : 50
   Dominio    : jmp2.uk
   URL        : https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Faith TV (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : faithnow-hls.secdn.net
+  URL        : https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : cdn.freevisiontv.co.za
+  URL        : https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -27994,6 +27993,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Star Vijay HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 149.71.34.166:8000
+  URL        : http://149.71.34.166:8000/play/a06i/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : da86m1sqpm3o0.cloudfront.net
+  URL        : https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
