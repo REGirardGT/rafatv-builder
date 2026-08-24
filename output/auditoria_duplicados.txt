@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1432
+Total de decisiones: 1435
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 766
-Mayor puntuación     : 645
+Mayor puntuación     : 648
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -2574,6 +2574,31 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: AXN Spin
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : cronos.mangora1.cfd
+  URL        : https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 193.24.244.60:1001
+  URL        : http://193.24.244.60:1001/udp/239.254.5.6:6060
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
@@ -9516,13 +9541,12 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 50
+  Puntuación : 40
   Dominio    : cdn.freevisiontv.co.za
   URL        : https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
-      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -9758,6 +9782,32 @@ Perdedor
   Puntuación : 50
   Dominio    : securestream11.champds.com
   URL        : https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: FightBox HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : nosignal1.antenaplay.ro
+  URL        : https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : webtvstream.bhtelecom.ba
+  URL        : https://webtvstream.bhtelecom.ba/fightbox.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -24409,6 +24459,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Rai News 24 HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : d3k8wzt41aflvx.cloudfront.net
+  URL        : https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 70
+  Dominio    : rainews1-live.akamaized.net
+  URL        : https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Raj TV (1080p)
 Motivo: Mayor puntuación
 
@@ -28633,19 +28710,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: SYFY (1080p)
+Canal: SYFY (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : gpuserver5.tier1streams.com
-  URL        : https://gpuserver5.tier1streams.com/SYFY/index.m3u8
+  Puntuación : 65
+  Dominio    : 23.237.104.106:8080
+  URL        : http://23.237.104.106:8080/USA_SYFY/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
