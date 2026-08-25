@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1435
+Total de decisiones: 1443
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 766
-Mayor puntuación     : 648
+Primer canal         : 769
+Mayor puntuación     : 653
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -1268,6 +1268,33 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Antena 1 (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : bantel-cdn1.iptvperu.tv:1935
+  URL        : http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : forever.megogo.xyz
+  URL        : http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -6870,6 +6897,32 @@ Ganador
 
 Perdedor
   Puntuación : 50
+  Dominio    : saruman1.tharen1.cfd
+  URL        : https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Comedy Central (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : jmp2.uk
+  URL        : https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
   Dominio    : jmp2.uk
   URL        : https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
   Detalle:
@@ -8205,6 +8258,32 @@ Ganador
        +5  HTTP
 
 Perdedor
+  Puntuación : 50
+  Dominio    : galandriel1.thobias11.cfd
+  URL        : https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Disney Channel (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 151.80.18.177:86
+  URL        : http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
   Puntuación : 55
   Dominio    : 212.5.144.156
   URL        : http://212.5.144.156/disney/index.m3u8
@@ -8346,6 +8425,31 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Disney Junior (576p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : bbb.exoadash.com
+  URL        : https://bbb.exoadash.com/TVD1561/index.mpd
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : atlantida1.aquax1.cfd
+  URL        : https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -17746,6 +17850,32 @@ Ganador
        +5  HTTP
 
 Perdedor
+  Puntuación : 50
+  Dominio    : onyx1.mofta1.cfd
+  URL        : https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: National Geographic (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/NationalGeographic/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
   Puntuación : 45
   Dominio    : stream.mcquack.net
   URL        : http://stream.mcquack.net/116/index.m3u8
@@ -17944,6 +18074,31 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: National Geographic Wild
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : flash1.bogulus1.cfd
+  URL        : https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 213.91.179.28:8000
+  URL        : http://213.91.179.28:8000/play/a0cu
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: National Geographic Wild (1080p)
 Motivo: Mayor puntuación
 
@@ -17959,14 +18114,14 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 45
-  Dominio    : 213.91.179.28:8000
-  URL        : http://213.91.179.28:8000/play/a0cu
+  Puntuación : 50
+  Dominio    : flash1.bogulus1.cfd
+  URL        : https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-       +5  HTTP
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -18663,6 +18818,32 @@ Ganador
        +5  HTTP
 
 Perdedor
+  Puntuación : 50
+  Dominio    : onyx1.mofta1.cfd
+  URL        : https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Nickelodeon (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
   Puntuación : 45
   Dominio    : stream.mcquack.net
   URL        : http://stream.mcquack.net/443/index.m3u8
@@ -18910,13 +19091,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: NickToons
+Canal: Nicktoons
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+  Dominio    : atlantida1.aquax1.cfd
+  URL        : https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -18932,6 +19113,31 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nicktoons
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : atlantida1.aquax1.cfd
+  URL        : https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : jmp2.uk
+  URL        : https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -18951,8 +19157,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+  Dominio    : atlantida1.aquax1.cfd
+  URL        : https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -28685,31 +28891,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Swerve Combat (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : linear-253.frequency.stream
-  URL        : https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 40
-  Dominio    : a-cdn.klowdtv.com
-  URL        : https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8
-  Detalle:
-      +10  Grupo identificado
-      +20  Calidad 720p
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: SYFY (720p)
 Motivo: Mayor puntuación
 
@@ -31958,32 +32139,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TV1000 (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 176.61.157.250
-  URL        : http://176.61.157.250/TV1000/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 85.14.32.26:8800
-  URL        : http://85.14.32.26:8800/udp/239.100.10.100:5000
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: TV Lux (1080p)
 Motivo: Mayor puntuación
 
@@ -32051,6 +32206,31 @@ Perdedor
   Puntuación : 45
   Dominio    : 88.212.15.19
   URL        : http://88.212.15.19/live/parpika_hun/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: TV Paprika
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : galandriel1.thobias11.cfd
+  URL        : https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.19
+  URL        : http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -33776,19 +33956,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: VTV (1080p)
+Canal: VTV (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
-  Dominio    : 103.66.62.83:8000
-  URL        : http://103.66.62.83:8000/play/a00c/index.m3u8
+  Puntuación : 70
+  Dominio    : flv.intechmedia.net
+  URL        : https://flv.intechmedia.net/live/ch107.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
+      +20  Calidad 720p
+      +10  HTTPS
 
 Perdedor
   Puntuación : 50
@@ -33817,9 +33997,36 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 70
+  Dominio    : flv.intechmedia.net
+  URL        : https://flv.intechmedia.net/live/ch107.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: VTV (1080p) [Not 24/7]
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : vtvstream.vnews.mv
+  URL        : https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 75
-  Dominio    : 103.66.62.83:8000
-  URL        : http://103.66.62.83:8000/play/a00c/index.m3u8
+  Dominio    : ikitv.sqn.at:8000
+  URL        : http://ikitv.sqn.at:8000/play/a023/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
