@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1443
+Total de decisiones: 1446
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 769
-Mayor puntuación     : 653
+Mayor puntuación     : 656
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -9945,18 +9945,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: FILMBOX+ Festival HD
+Canal: FILMBOX+ Festival HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 65
-  Dominio    : webtvstream.bhtelecom.ba
-  URL        : https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
+  Puntuación : 80
+  Dominio    : nosignal1.antenaplay.ro
+  URL        : https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +15  Calidad HD
+      +30  Calidad 1080p
       +10  HTTPS
 
 Perdedor
@@ -33658,6 +33658,32 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 50
+  Dominio    : arwen1.panaka1.cfd
+  URL        : https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Viasat Explore (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 45
   Dominio    : 315e5a5d.ottrast.com
   URL        : http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
@@ -33718,6 +33744,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Viasat History (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : arwen1.panaka1.cfd
+  URL        : https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -33823,6 +33875,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Viasat Nature (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : arwen1.panaka1.cfd
+  URL        : https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 

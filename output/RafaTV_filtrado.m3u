@@ -92,9 +92,6 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-name="Dokusat (1080p)" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="Estados Unidos",Dokusat (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-name="DW Espanol (1080p)" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="España",DW Espanol (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://177.234.249.178:8888/DW/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-name="E! Latin America Mexico (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="México",E! Latin America Mexico (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://72.1.184.5:8089/play/a05d/index.m3u8
@@ -194,9 +191,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:-1 tvg-id="LaChilenaTV.cl@SD" tvg-name="La Chilena TV" tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="Chile",La Chilena TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://vdochile.com:3134/stream/play.m3u8
-#EXTINF:-1 tvg-name="Little Angel's Playroom en Español" group-title="España",Little Angel's Playroom en Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
 #EXTINF:-1 tvg-name="Love Island USA" group-title="Estados Unidos",Love Island USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-695e2857026be6e9d3ad59d3.m3u8
