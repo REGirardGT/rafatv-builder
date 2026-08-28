@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1446
+Total de decisiones: 1447
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 769
+Primer canal         : 770
 Mayor puntuación     : 656
 Mayor resolución     : 19
 HTTPS                : 2
@@ -414,6 +414,33 @@ Perdedor
   Puntuación : 65
   Dominio    : 103.213.31.109:90
   URL        : http://103.213.31.109:90/AasthaSD/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: ACC Network HD (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : directv-iptv-player.vercel.app
+  URL        : https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 23.239.31.26:8989
+  URL        : http://23.239.31.26:8989/accnetwork/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -1927,6 +1954,32 @@ Perdedor
   URL        : https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
   Detalle:
       +10  Grupo identificado
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Asianet HD (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : raw.githubusercontent.com
+  URL        : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : anet.keralive.workers.dev
+  URL        : https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -5744,60 +5797,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Channel 5 (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : 639bc5877c5fe.streamlock.net
-  URL        : https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 80
-  Dominio    : xemzi.short.gy
-  URL        : https://xemzi.short.gy/1000030
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Channel 5 (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : 639bc5877c5fe.streamlock.net
-  URL        : https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 65
-  Dominio    : 193.46.58.239:8080
-  URL        : http://193.46.58.239:8080/Channel5/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
        +5  HTTP
 
 --------------------------------------------------
@@ -10467,18 +10466,16 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Fox Sports (720p) [Not 24/7]
-Motivo: Mayor puntuación
+Canal: FOX Sports (1080p)
+Motivo: Primer canal
 
 Ganador
-  Puntuación : 70
-  Dominio    : futbol9865.ultratv13.workers.dev
-  URL        : https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
+  Puntuación : 50
+  Dominio    : d1jzu95oc8fgt3.cloudfront.net
+  URL        : https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
   Detalle:
-      +20  TVG-ID válido
       +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
       +10  HTTPS
 
 Perdedor
@@ -10492,43 +10489,16 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Fox Sports (720p) [Not 24/7]
+Canal: FOX Sports (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : futbol9865.ultratv13.workers.dev
-  URL        : https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 50
   Dominio    : d1jzu95oc8fgt3.cloudfront.net
   URL        : https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
   Detalle:
       +10  Grupo identificado
       +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Fox Sports (720p) [Not 24/7]
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : futbol9865.ultratv13.workers.dev
-  URL        : https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
       +10  HTTPS
 
 Perdedor
@@ -10564,6 +10534,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: France 24 English (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : live.france24.com
+  URL        : https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 75
+  Dominio    : nmk.ioapk.com:5050
+  URL        : http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -18532,16 +18529,15 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 70
-  Dominio    : nhk.lls.pbs.org
-  URL        : https://nhk.lls.pbs.org/index.m3u8
+  Puntuación : 75
+  Dominio    : nmk.ioapk.com:5050
+  URL        : http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-      -10  Canal geo-blocked
-      +10  HTTPS
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -34863,6 +34859,33 @@ Perdedor
   URL        : https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8
   Detalle:
       +10  Grupo identificado
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: WOW Kidz (720p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 70
+  Dominio    : yuppparoriglin.akamaized.net
+  URL        : https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 70
+  Dominio    : yuppparoriglin.akamaized.net
+  URL        : https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
       +10  HTTPS
 
 --------------------------------------------------
