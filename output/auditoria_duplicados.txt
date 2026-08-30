@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1447
+Total de decisiones: 1452
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 770
-Mayor puntuación     : 656
+Primer canal         : 771
+Mayor puntuación     : 660
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -414,33 +414,6 @@ Perdedor
   Puntuación : 65
   Dominio    : 103.213.31.109:90
   URL        : http://103.213.31.109:90/AasthaSD/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: ACC Network HD (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : directv-iptv-player.vercel.app
-  URL        : https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 65
-  Dominio    : 23.239.31.26:8989
-  URL        : http://23.239.31.26:8989/accnetwork/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5150,6 +5123,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Canale 5 HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : live02-seg.msf.cdn.mediaset.net
+  URL        : https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 40
+  Dominio    : live3-mediaset-it.akamaized.net
+  URL        : https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Capital TV (1080p)
 Motivo: Mayor puntuación
 
@@ -6880,6 +6880,31 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Comedy Central
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : ma.anixa.tv
+  URL        : https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : saruman1.tharen1.cfd
+  URL        : https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Comedy Central (720p)
 Motivo: Mayor puntuación
 
@@ -6896,8 +6921,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : saruman1.tharen1.cfd
-  URL        : https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+  Dominio    : ma.anixa.tv
+  URL        : https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13074,6 +13099,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Iris HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : live02-seg.msf.cdn.mediaset.net
+  URL        : https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 40
+  Dominio    : live3-mediaset-it.akamaized.net
+  URL        : https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: ISTV (720p) [Not 24/7]
 Motivo: Mayor puntuación
 
@@ -16469,8 +16521,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 50
-  Dominio    : da86m1sqpm3o0.cloudfront.net
-  URL        : https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+  Dominio    : ma.anixa.tv
+  URL        : https://ma.anixa.tv/clips/stream/mtv/playlist.php
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -16481,6 +16533,56 @@ Perdedor
   Puntuación : 45
   Dominio    : 99.27.51.147:8080
   URL        : http://99.27.51.147:8080/MTV/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: MTV
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : ma.anixa.tv
+  URL        : https://ma.anixa.tv/clips/stream/mtv/playlist.php
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : da86m1sqpm3o0.cloudfront.net
+  URL        : https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: MTV
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : ma.anixa.tv
+  URL        : https://ma.anixa.tv/clips/stream/mtv/playlist.php
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 42.118.247.37:9394
+  URL        : http://42.118.247.37:9394/stream/74.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -16505,8 +16607,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : da86m1sqpm3o0.cloudfront.net
-  URL        : https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+  Dominio    : ma.anixa.tv
+  URL        : https://ma.anixa.tv/clips/stream/mtv/playlist.php
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -31865,6 +31967,34 @@ Ganador
 
 Perdedor
   Puntuación : 70
+  Dominio    : radiomy-tonton-proxy.api-danidev.workers.dev
+  URL        : https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: TV3 (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/29/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 70
   Dominio    : customer-ezarl905qqr949qs.cloudflarestream.com
   URL        : https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
   Detalle:
@@ -32058,17 +32188,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TV9
-Motivo: Primer canal
+Canal: TV9 (1080p) [Geo-blocked]
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : tonton-live-switch-ssar.akamaized.net
-  URL        : https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+  Puntuación : 70
+  Dominio    : radiomy-tonton-proxy.api-danidev.workers.dev
+  URL        : https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
       +10  HTTPS
 
 Perdedor
@@ -32098,13 +32230,15 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 50
-  Dominio    : tonton-live-switch-ssar.akamaized.net
-  URL        : https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+  Puntuación : 70
+  Dominio    : radiomy-tonton-proxy.api-danidev.workers.dev
+  URL        : https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
       +10  HTTPS
 
 --------------------------------------------------
