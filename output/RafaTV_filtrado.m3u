@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="AMCenEspanol.us@SD" tvg-name="AMC en Español (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="España",AMC en Español (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaParaguay.py@SD" tvg-name="America Paraguay (720p)" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",America Paraguay (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://45.170.130.224:8000/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" tvg-name="AXN Latin America Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="México",AXN Latin America Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
@@ -269,6 +266,9 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@USA" tvg-name="NOW News USA (1080p)" tvg-logo="https://i.imgur.com/MfyRQCs.png" group-title="Estados Unidos",NOW News USA (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-name="Nusantara TV (1080p)" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Estados Unidos",Nusantara TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-name="Paraguay TV (1080p)" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay",Paraguay TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
@@ -461,9 +461,6 @@ https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@EastNusaTenggara" tvg-name="TVRI Nusa Tenggara Timur (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Estados Unidos",TVRI Nusa Tenggara Timur (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-name="TyC Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Estados Unidos",TyC Sports USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-name="USA Network (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Estados Unidos",USA Network (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8

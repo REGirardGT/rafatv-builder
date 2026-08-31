@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1452
+Total de decisiones: 1448
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 771
-Mayor puntuación     : 660
+Primer canal         : 773
+Mayor puntuación     : 654
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -316,33 +316,6 @@ Perdedor
   URL        : https://jmp2.uk/plu-68c8203efef6d8a2a6f13906.m3u8
   Detalle:
       +10  Grupo identificado
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: &pictures HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 103.72.101.252:8080
-  URL        : http://103.72.101.252:8080/live/185.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 70
-  Dominio    : tvsen3.aynaott.com
-  URL        : https://tvsen3.aynaott.com/jzT482XQ/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
       +10  HTTPS
 
 --------------------------------------------------
@@ -9319,6 +9292,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: ETV Music (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 80
+  Dominio    : cc-szivnms4rlah6.akamaized.net
+  URL        : https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 80
+  Dominio    : dg3721c3ez5m0.cloudfront.net
+  URL        : https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
       +10  HTTPS
 
 --------------------------------------------------
@@ -24943,6 +24943,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Ray TV HD
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 65
+  Dominio    : streaming.tvnepal.com:19360
+  URL        : https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 65
+  Dominio    : streaming.tvnepal.com:19360
+  URL        : https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: RCM (1080p)
 Motivo: Primer canal
 
@@ -26610,85 +26637,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Sky Sports Cricket HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : xemzi.short.gy
-  URL        : https://xemzi.short.gy/2000006
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : 7nyaler.streamhostingcdn.top
-  URL        : https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Sky Sports F1 (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : xemzi.short.gy
-  URL        : https://xemzi.short.gy/2000005
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 65
-  Dominio    : 188.138.29.131
-  URL        : http://188.138.29.131/skysportsf1/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Sky Sports Main Event HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : xemzi.short.gy
-  URL        : https://xemzi.short.gy/2000001
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : 7nyaler.streamhostingcdn.top
-  URL        : https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Smithsonian Channel Pluto TV
 Motivo: Primer canal
 
@@ -28011,32 +27959,6 @@ Perdedor
   Puntuación : 45
   Dominio    : 92.36.202.5:10001
   URL        : http://92.36.202.5:10001/play/a01o
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Star Movies HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 149.71.34.166:8000
-  URL        : http://149.71.34.166:8000/play/a01f/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : znty.dyndns.org:5010
-  URL        : http://znty.dyndns.org:5010/hls/foxm.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -35202,32 +35124,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: Zee Marathi HD (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : raw.githubusercontent.com
-  URL        : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 103.72.101.252:8080
-  URL        : http://103.72.101.252:8080/live/445.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
