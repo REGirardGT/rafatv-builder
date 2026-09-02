@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1444
+Total de decisiones: 1445
 
 Resumen de decisiones
 --------------------------------------------------
 Primer canal         : 772
-Mayor puntuación     : 651
+Mayor puntuación     : 652
 Mayor resolución     : 19
 HTTPS                : 2
 
@@ -25732,6 +25732,32 @@ Perdedor
       +10  Logo
       -10  Canal geo-blocked
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: RTN (Neuquén) (720p) [Not 24/7]
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : media.neuquen.gov.ar
+  URL        : https://media.neuquen.gov.ar/rtn/television/media.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 4.59.210.197:8815
+  URL        : http://4.59.210.197:8815/udp/127.0.0.1:6002
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
