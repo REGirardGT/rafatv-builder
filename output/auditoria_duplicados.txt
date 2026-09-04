@@ -2,13 +2,13 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1458
+Total de decisiones: 1463
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 776
-Mayor puntuación     : 660
-Mayor resolución     : 20
+Primer canal         : 775
+Mayor puntuación     : 665
+Mayor resolución     : 21
 HTTPS                : 2
 
 ==================================================
@@ -2679,6 +2679,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Balapan HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : balapantv-stream.qazcdn.com
+  URL        : https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : fs.uplink.kz
+  URL        : https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Bar Rescue
 Motivo: Primer canal
 
@@ -4839,32 +4865,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Canal 4 (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : dlhn7gdemxofz.cloudfront.net
-  URL        : https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 138.117.4.70:8075
-  URL        : http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Canal 4 (1080p)
 Motivo: Mayor puntuación
 
@@ -5831,6 +5831,32 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
       -10  Canal geo-blocked
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Channel 7 (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : streamer2.nexgen.bz
+  URL        : https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : fs.uplink.kz
+  URL        : https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -8384,13 +8410,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Junior (576p)
+Canal: Disney Junior
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 50
-  Dominio    : bbb.exoadash.com
-  URL        : https://bbb.exoadash.com/TVD1561/index.mpd
+  Dominio    : atlantida1.aquax1.cfd
+  URL        : https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -8406,56 +8432,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
-
---------------------------------------------------
-
-Canal: Disney Junior (576p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 50
-  Dominio    : bbb.exoadash.com
-  URL        : https://bbb.exoadash.com/TVD1561/index.mpd
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 149.71.34.166:8000
-  URL        : http://149.71.34.166:8000/play/a00l/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Disney Junior (576p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : bbb.exoadash.com
-  URL        : https://bbb.exoadash.com/TVD1561/index.mpd
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : atlantida1.aquax1.cfd
-  URL        : https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -8475,8 +8451,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : bbb.exoadash.com
-  URL        : https://bbb.exoadash.com/TVD1561/index.mpd
+  Dominio    : atlantida1.aquax1.cfd
+  URL        : https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -8735,8 +8711,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : stream8.cinerama.uz
-  URL        : https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+  Dominio    : fs.uplink.kz
+  URL        : https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9024,33 +9000,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: EET TV (1080p) [Not 24/7]
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : eu.streamjo.com
-  URL        : https://eu.streamjo.com/eetlive/eettv.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 80
-  Dominio    : live.streamjo.com
-  URL        : https://live.streamjo.com/eetlive/eettv.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Escape to the Country (1080p)
 Motivo: Mayor puntuación
 
@@ -9305,33 +9254,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: ETV Music (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : cc-szivnms4rlah6.akamaized.net
-  URL        : https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 80
-  Dominio    : dg3721c3ez5m0.cloudfront.net
-  URL        : https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: ETV Plus HD (1080p)
 Motivo: Mayor puntuación
 
@@ -9531,6 +9453,32 @@ Perdedor
   Detalle:
       +10  Grupo identificado
       +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Evrokino HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/385/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : fs.uplink.kz
+  URL        : https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -10297,6 +10245,30 @@ Perdedor
   Detalle:
       +10  Grupo identificado
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: FON Music (1080p)
+Motivo: Mayor resolución
+
+Ganador
+  Puntuación : 50
+  Dominio    : cdn-01.bonus-tv.ru
+  URL        : https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+  Detalle:
+      +10  Grupo identificado
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : stream8.cinerama.uz
+  URL        : https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -13879,6 +13851,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Kinopremyera HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : fs.uplink.kz
+  URL        : https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 5.188.159.128:8070
+  URL        : http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Korean Central Television (1080p)
 Motivo: Mayor puntuación
 
@@ -15523,7 +15522,7 @@ Perdedor
 --------------------------------------------------
 
 Canal: Mega (1080p)
-Motivo: Mayor puntuación
+Motivo: Primer canal
 
 Ganador
   Puntuación : 75
@@ -15537,15 +15536,15 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 70
-  Dominio    : cdn15.live-tv.cloud
-  URL        : https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+  Puntuación : 75
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/325/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
+      +30  Calidad 1080p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -17937,6 +17936,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: National Geographic (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/NationalGeographic/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 35
+  Dominio    : main.light-ott.net:80
+  URL        : http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      -10  Canal geo-blocked
        +5  HTTP
 
 --------------------------------------------------
@@ -24347,6 +24373,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Priklyucheniya HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/198/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : stream8.cinerama.uz
+  URL        : https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Prime (1080p)
 Motivo: Mayor puntuación
 
@@ -26866,8 +26918,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : live20.bozztv.com
-  URL        : https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
+  Dominio    : 5790d294af2dc.streamlock.net:443
+  URL        : https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -28025,6 +28077,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Star Jalsha HD (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : da86m1sqpm3o0.cloudfront.net
+  URL        : https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 35
+  Dominio    : cdn98.com
+  URL        : http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      -10  Canal geo-blocked
        +5  HTTP
 
 --------------------------------------------------
@@ -31768,6 +31847,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Travel+Adventure (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 31.148.48.15
+  URL        : http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/206/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Trece (720p)
 Motivo: Mayor puntuación
 
@@ -32524,6 +32630,32 @@ Perdedor
   Puntuación : 45
   Dominio    : flussonic.linkintel.ru
   URL        : http://flussonic.linkintel.ru/tv-3/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: TV-3 HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/136/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 178.124.179.122:8080
+  URL        : http://178.124.179.122:8080/TB-3/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
