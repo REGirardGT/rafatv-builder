@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1465
+Total de decisiones: 1469
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 785
-Mayor puntuación     : 660
+Primer canal         : 790
+Mayor puntuación     : 659
 Mayor resolución     : 19
 HTTPS                : 1
 
@@ -11796,32 +11796,6 @@ Perdedor
   Detalle:
       +10  Grupo identificado
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: History TV18 HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 103.154.3.101:5001
-  URL        : http://103.154.3.101:5001/live/577.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 103.72.101.252:8080
-  URL        : http://103.72.101.252:8080/live/1471.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -27007,6 +26981,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Sony Max (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/max.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Sony One Competencias (720p)
 Motivo: Mayor puntuación
 
@@ -27025,6 +27026,114 @@ Perdedor
   URL        : https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
   Detalle:
       +10  Grupo identificado
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Sony Sports Ten 1 (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/ten1.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Sony Sports Ten 2 (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/ten2.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Sony Sports Ten 3 Hindi (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/ten3.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Sony Sports Ten 5 (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/ten5.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 80
+  Dominio    : cloudplay-sonyliv.pages.dev
+  URL        : https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
       +10  HTTPS
 
 --------------------------------------------------
