@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1469
+Total de decisiones: 1470
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 790
-Mayor puntuación     : 659
+Primer canal         : 793
+Mayor puntuación     : 657
 Mayor resolución     : 19
 HTTPS                : 1
 
@@ -8287,6 +8287,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Disney Channel (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 151.80.18.177:86
+  URL        : http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 185.227.34.179:8080
+  URL        : http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Disney Jr. (1080p)
 Motivo: Mayor puntuación
 
@@ -8416,6 +8443,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Disney XD (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : 23.237.104.106:8080
+  URL        : http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 185.227.34.179:8080
+  URL        : http://185.227.34.179:8080/disney-xd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -10764,33 +10817,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: FX Movie Channel HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : sra72yz.s.gy
-  URL        : https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 65
-  Dominio    : misterich.megatv.fun
-  URL        : http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Gardening With Monty Don (720p)
 Motivo: Mayor puntuación
 
@@ -11065,33 +11091,6 @@ Perdedor
   Detalle:
       +10  Grupo identificado
       +20  Calidad 720p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Golf Channel (1080p) [Geo-blocked]
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : messi.damitv.st
-  URL        : https://messi.damitv.st/papi/ts/golfchannel-usa/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      -10  Canal geo-blocked
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : dash4.antik.sk
-  URL        : https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -17979,7 +17978,7 @@ Perdedor
 --------------------------------------------------
 
 Canal: National Geographic (1080p)
-Motivo: Mayor puntuación
+Motivo: Primer canal
 
 Ganador
   Puntuación : 75
@@ -17993,13 +17992,14 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 45
-  Dominio    : stream.mcquack.net
-  URL        : http://stream.mcquack.net/116/index.m3u8
+  Puntuación : 75
+  Dominio    : dtv.vol.net.ua
+  URL        : http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -18267,7 +18267,7 @@ Perdedor
 --------------------------------------------------
 
 Canal: National Geographic Wild (1080p)
-Motivo: Mayor puntuación
+Motivo: Primer canal
 
 Ganador
   Puntuación : 75
@@ -18281,14 +18281,14 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 65
-  Dominio    : 46.32.176.50
-  URL        : http://46.32.176.50/natgeowild/index.m3u8
+  Puntuación : 75
+  Dominio    : dtv.vol.net.ua:80
+  URL        : http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -26851,6 +26851,30 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Smurf TV (480p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : stream.ads.ottera.tv
+  URL        : https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 40
+  Dominio    : d144py1prrd7ns.cloudfront.net
+  URL        : https://d144py1prrd7ns.cloudfront.net/smrfe.m3u8
+  Detalle:
+      +10  Grupo identificado
+      +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Sol TV (720p)
 Motivo: Mayor puntuación
 
@@ -34214,8 +34238,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 777905.live.tvstitch.com
-  URL        : http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79
+  Dominio    : dtv.vol.net.ua
+  URL        : http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -34371,8 +34395,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : dtv.vol.net.ua
-  URL        : http://dtv.vol.net.ua/Viasat-History/index.m3u8
+  Dominio    : 777905.live.tvstitch.com
+  URL        : http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -34501,8 +34525,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : dtv.vol.net.ua
-  URL        : http://dtv.vol.net.ua/Viasat-Nature/index.m3u8
+  Dominio    : 777905.live.tvstitch.com
+  URL        : http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
