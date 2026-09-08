@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 1470
+Total de decisiones: 1474
 
 Resumen de decisiones
 --------------------------------------------------
-Primer canal         : 793
-Mayor puntuación     : 657
+Primer canal         : 794
+Mayor puntuación     : 660
 Mayor resolución     : 19
 HTTPS                : 1
 
@@ -161,6 +161,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: 8XM HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : cdn4.mjunoon.tv:8087
+  URL        : https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 115.42.65.142:9981
+  URL        : http://115.42.65.142:9981/stream/channelid/582886861
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: 21 Jump Street (1080p)
 Motivo: Mayor puntuación
 
@@ -268,6 +294,32 @@ Perdedor
   URL        : https://jmp2.uk/plu-699c169077cdde1f05252eb9.m3u8
   Detalle:
       +10  Grupo identificado
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: 24 News HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : cdn4.mjunoon.tv:8087
+  URL        : https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : mumt07.tangotv.in
+  URL        : https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -5166,6 +5218,32 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 50
+  Dominio    : cdn4.mjunoon.tv:8087
+  URL        : https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Capital TV (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : streaming.tvnepal.com:19360
+  URL        : https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 65
   Dominio    : streaming.tvnepal.com:19360
   URL        : https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
@@ -7744,30 +7822,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: DAZN 5
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 45
-  Dominio    : znty.dyndns.org:5010
-  URL        : http://znty.dyndns.org:5010/hls/eleven5.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
-Perdedor
-  Puntuación : 35
-  Dominio    : znty.dyndns.org:5010
-  URL        : http://znty.dyndns.org:5010/hls/eleven5.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -15710,6 +15764,31 @@ Perdedor
 --------------------------------------------------
 
 Canal: Minimax (360p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : vodzong.mjunoon.tv:8087
+  URL        : https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : atlantida1.aquax1.cfd
+  URL        : https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Minimax (360p)
 Motivo: Mayor puntuación
 
 Ganador
@@ -18811,38 +18890,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 45
-  Dominio    : 213.91.179.28:8000
-  URL        : http://213.91.179.28:8000/play/a056
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 88.212.15.19
-  URL        : http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Nickelodeon
+Canal: Nickelodeon (480p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 50
-  Dominio    : ma.anixa.tv
-  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+  Dominio    : stmv2.srvif.com
+  URL        : https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -18858,6 +18912,56 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (480p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : stmv2.srvif.com
+  URL        : https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.19
+  URL        : http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (480p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : stmv2.srvif.com
+  URL        : https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : ma.anixa.tv
+  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -18877,8 +18981,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : ma.anixa.tv
-  URL        : https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+  Dominio    : stmv2.srvif.com
+  URL        : https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
