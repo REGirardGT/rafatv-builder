@@ -29,6 +29,9 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="España",CBS en español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
+#EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-name="Chile Channel (720p)" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile",Chile Channel (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl@SD" tvg-name="ChileVision (1080p)" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVision (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://15.204.246.24:8080/CHVHD/index.m3u8
@@ -83,9 +86,6 @@ https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 tvg-id="EspansioneTV.it@SD" tvg-name="Espansione TV (576p)" tvg-logo="https://i.imgur.com/NZJi7mm.png" group-title="España",Espansione TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
-#EXTINF:-1 tvg-id="EsperiaTV.it@SD" tvg-name="Esperia TV (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="España",Esperia TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="España",ESPN (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://181.78.197.59:8000/play/a07z/index.m3u8
@@ -140,9 +140,6 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt@SD" tvg-name="Guatevision (720p)" tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevision (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
-#EXTINF:-1 tvg-id="HarvestUSA.in@SD" tvg-name="Harvest USA (576p)" group-title="Estados Unidos",Harvest USA (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HechosEcuador.ec@SD" tvg-name="Hechos Ecuador (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Ecuador",Hechos Ecuador (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
@@ -254,9 +251,6 @@ https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 #EXTINF:-1 tvg-id="QausainTV.ng@SD" tvg-name="Qausain TV (720p)" tvg-logo="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" group-title="Estados Unidos",Qausain TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioIdeal.hn@SD" tvg-name="Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/chPfoOs.png" group-title="España",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="RadioUSACH.cl@SD" tvg-name="Radio USACH (720p)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/997/radio-udesantiago.75310738.jpg" group-title="Estados Unidos",Radio USACH (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://rusach2.janus.cl/playlist/stream.m3u8
@@ -356,12 +350,6 @@ https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
 #EXTINF:-1 tvg-id="TVONENicaragua.ni@SD" tvg-name="TVONE Nicaragua (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Nicaragua",TVONE Nicaragua (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 tvg-id="TVRI.id@WestNusaTenggara" tvg-name="TVRI Nusa Tenggara Barat (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Estados Unidos",TVRI Nusa Tenggara Barat (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:-1 tvg-id="TVRI.id@EastNusaTenggara" tvg-name="TVRI Nusa Tenggara Timur (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Estados Unidos",TVRI Nusa Tenggara Timur (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-name="TyC Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Estados Unidos",TyC Sports USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.170.130.224:8000/play/a020/index.m3u8
