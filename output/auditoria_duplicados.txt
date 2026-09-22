@@ -6811,6 +6811,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Mango (Poland) (1080p) [Geo-blocked]
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : lb2.pluscdn.pl
+  URL        : https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : stmv6.voxtvhd.com.br
+  URL        : https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Match! Igra HD (1080p)
 Motivo: Mayor puntuación
 
@@ -13476,33 +13503,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
-
---------------------------------------------------
-
-Canal: Star Sports 2 Hindi HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 103.157.248.140:8000
-  URL        : http://103.157.248.140:8000/play/a01m/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 70
-  Dominio    : tvsen5.aynaott.com
-  URL        : https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
 
 --------------------------------------------------
 
