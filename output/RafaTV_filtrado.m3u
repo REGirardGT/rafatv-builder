@@ -5,18 +5,15 @@ https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us@East" tvg-name="AMC (United States) East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Estados Unidos",AMC (United States) East (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericasNextTopModel.us@CA" tvg-name="America's Next Top Model (United States) CA" tvg-logo="https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png" group-title="Estados Unidos",America's Next Top Model (United States) CA
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD" tvg-name="America Paraguay (720p)" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",America Paraguay (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
+http://45.170.130.224:8000/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" tvg-name="AXN Latin America Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="México",AXN Latin America Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn@SD" tvg-name="Azteca Honduras (720p)" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="Honduras",Azteca Honduras (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
-#EXTINF:-1 tvg-id="BETPlutoTV.us@BR" tvg-name="BET Pluto TV (United States) BR" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png" group-title="Estados Unidos",BET Pluto TV (United States) BR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 #EXTINF:-1 tvg-id="BethelColombia.co@SD" tvg-name="Bethel Colombia (720p)" tvg-logo="https://i.imgur.com/BYdMsLL.png" group-title="Colombia",Bethel Colombia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://138.121.15.230:9002/BETHEL/index.m3u8
@@ -38,9 +35,6 @@ https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-name="Canal 11 (Honduras) (1080p)" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 (Honduras) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (Chile) (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (Chile) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-name="Canal 26 (Argentina) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 (Argentina) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -50,18 +44,18 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-name="CBS en espanol" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="España",CBS en espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
-#EXTINF:-1 tvg-id="Channel10.us@SD" tvg-name="Channel 10 (United States) (720p)" tvg-logo="https://spcity.org/ImageRepository/Document?documentID=4246" group-title="Estados Unidos",Channel 10 (United States) (720p)
+#EXTINF:-1 tvg-id="Cheers.us@CA" tvg-name="Cheers (United States)" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Estados Unidos",Cheers (United States)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-name="Chile Channel (720p)" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile",Chile Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl@SD" tvg-name="ChileVision (1080p)" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVision (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="Cineenespanol.us@SD" tvg-name="Cine en espanol" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="España",Cine en espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:-1 tvg-id="ClickTVChile.cl@SD" tvg-name="ClickTV Chile (720p)" tvg-logo="https://i.imgur.com/H0XNbMS.png" group-title="Chile",ClickTV Chile (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-name="CMC-USA Country Music Channel (720p)" tvg-logo="https://i.imgur.com/QsANRSu.png" group-title="Estados Unidos",CMC-USA Country Music Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
@@ -71,9 +65,6 @@ https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-name="Comedy Central en Espanol" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="España",Comedy Central en Espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@LatAm" tvg-name="Comedy Central South Park (United States) LatAm" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png" group-title="Estados Unidos",Comedy Central South Park (United States) LatAm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-name="Costa Rica Channel (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica",Costa Rica Channel (576p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://video0.rogohosting.com:19360/8006/8006.m3u8
@@ -314,9 +305,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 #EXTINF:-1 tvg-id="MediasetItalia.it@USA" tvg-name="Mediaset Italia USA (1080p)" tvg-logo="https://i.imgur.com/F4gyqhw.png" group-title="Estados Unidos",Mediaset Italia USA (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
-#EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="Mega (Chile) (1080p)" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (Chile) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://15.204.246.24:8080/MEGAHD/index.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py@SD" tvg-name="Mega TV (Paraguay) (1080p)" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="Paraguay",Mega TV (Paraguay) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://www.desde-paraguay.com/mega.m3u8
@@ -362,16 +350,10 @@ https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 #EXTINF:-1 tvg-id="MTVenEspanol.us@SD" tvg-name="MTV en Espanol" tvg-logo="https://i.imgur.com/vQWWfyW.png" group-title="España",MTV en Espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@BR" tvg-name="MTV Pluto TV (United States) BR" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png" group-title="Estados Unidos",MTV Pluto TV (United States) BR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@LatAm" tvg-name="MTV Pluto TV (United States) LatAm (720p)" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png" group-title="Estados Unidos",MTV Pluto TV (United States) LatAm (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1 tvg-id="MTVReality.us@CA" tvg-name="MTV Reality (United States) CA" tvg-logo="https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png" group-title="Estados Unidos",MTV Reality (United States) CA
+#EXTINF:-1 tvg-id="MTVReality.us@CA" tvg-name="MTV Reality (United States) CA" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="Estados Unidos",MTV Reality (United States) CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
-#EXTINF:-1 tvg-id="MTVReality.us@LatAm" tvg-name="MTV Reality (United States) LatAm (720p)" tvg-logo="https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png" group-title="Estados Unidos",MTV Reality (United States) LatAm (720p)
+#EXTINF:-1 tvg-id="MTVReality.us@LatAm" tvg-name="MTV Reality (United States) LatAm (720p)" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="Estados Unidos",MTV Reality (United States) LatAm (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
 #EXTINF:-1 tvg-id="MTVRidiculousness.us@CA" tvg-name="MTV Ridiculousness (United States) CA" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" group-title="Estados Unidos",MTV Ridiculousness (United States) CA
@@ -413,12 +395,6 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us@SD" tvg-name="Nickelodeon en espanol" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="España",Nickelodeon en espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-name="Nickelodeon Teen (United States) LatAm (720p)" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Estados Unidos",Nickelodeon Teen (United States) LatAm (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:-1 tvg-id="NickelodeonToons.us@LatAm" tvg-name="Nickelodeon Toons (United States) LatAm (720p)" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="Estados Unidos",Nickelodeon Toons (United States) LatAm (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-name="Nicktoons (United States) (720p)" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="Estados Unidos",Nicktoons (United States) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://41.205.93.154/NICKTOONS/index.m3u8
@@ -431,18 +407,12 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="OasisTV.co@SD" tvg-name="Oasis TV (Colombia) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Colombia",Oasis TV (Colombia) (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-id="OliTV.cl@SD" tvg-name="Oli TV (Chile) (1080p)" tvg-logo="https://i.imgur.com/2emMRvf.jpeg" group-title="Chile",Oli TV (Chile) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@Spain" tvg-name="One Piece Spain" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="España",One Piece Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-name="Paraguay TV (1080p)" tvg-logo="https://i.imgur.com/TWnTZ3c.png" group-title="Paraguay",Paraguay TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
-#EXTINF:-1 tvg-id="PerryMason.us@CA" tvg-name="Perry Mason (United States) CA" tvg-logo="https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png" group-title="Estados Unidos",Perry Mason (United States) CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
 #EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" tvg-name="Pervyy Respublikanskiy" tvg-logo="https://i.imgur.com/ti4OMBv.png" group-title="España",Pervyy Respublikanskiy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
@@ -452,30 +422,15 @@ https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVALaMexicana.us@LatAm" tvg-name="Pluto TV A La Mexicana" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="México",Pluto TV A La Mexicana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.us@BR" tvg-name="Pluto TV Anime (United States) BR" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="Estados Unidos",Pluto TV Anime (United States) BR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.us@CA" tvg-name="Pluto TV Anime (United States) CA" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="Estados Unidos",Pluto TV Anime (United States) CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.us@LatAm" tvg-name="Pluto TV Anime (United States) LatAm" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="Estados Unidos",Pluto TV Anime (United States) LatAm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" tvg-name="Pluto TV Cine Comedia (United States) BR" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Estados Unidos",Pluto TV Cine Comedia (United States) BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us@LatAm" tvg-name="Pluto TV Cine Comedia (United States) LatAm" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Estados Unidos",Pluto TV Cine Comedia (United States) LatAm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@LatAm" tvg-name="Pluto TV Cine Drama (United States) LatAm" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Estados Unidos",Pluto TV Cine Drama (United States) LatAm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediamadeinSpain.de@ES" tvg-name="Pluto TV Comedia made in Spain" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="España",Pluto TV Comedia made in Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@CA" tvg-name="Pluto TV Crime Drama (United States) CA" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="Estados Unidos",Pluto TV Crime Drama (United States) CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVEsportes.us@BR" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg" group-title="España",Pluto TV Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
@@ -485,12 +440,6 @@ https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us@CA" tvg-name="Pluto TV Horror (United States) CA" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Estados Unidos",Pluto TV Horror (United States) CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
-#EXTINF:-1 tvg-id="PlutoTVJunior.us@LatAm" tvg-name="Pluto TV Junior (United States) LatAm" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Estados Unidos",Pluto TV Junior (United States) LatAm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKids.us@LatAm" tvg-name="Pluto TV Kids (United States) LatAm" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Estados Unidos",Pluto TV Kids (United States) LatAm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNovelasdeMexico.us@LatAm" tvg-name="Pluto TV Novelas de Mexico" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png" group-title="México",Pluto TV Novelas de Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
@@ -656,6 +605,9 @@ https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@WestNusaTenggara" tvg-name="TVRI West Nusa Tenggara (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Estados Unidos",TVRI West Nusa Tenggara (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-name="TyC Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Estados Unidos",TyC Sports USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@KMEXDT" tvg-name="Univision KMEX-DT [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="México",Univision KMEX-DT [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
