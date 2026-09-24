@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 629
+Total de decisiones: 632
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 423
-Primer canal         : 202
+Mayor puntuación     : 425
+Primer canal         : 203
 Mayor resolución     : 3
 HTTPS                : 1
 
@@ -31,6 +31,32 @@ Perdedor
   Puntuación : 45
   Dominio    : 158.101.222.193:88
   URL        : http://158.101.222.193:88/georgia_play.php?id=1plus1international
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: 5Sport (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : str2.iptvhd.ru:8080
+  URL        : http://str2.iptvhd.ru:8080/5sport/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : str2.iptvhd.ru:8080
+  URL        : http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -10161,21 +10187,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Qazaqstan (1080p)
+Canal: Qazaqstan HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : vs137.vcdn.biz
-  URL        : https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 75
   Dominio    : stream.mcquack.net
   URL        : http://stream.mcquack.net/71/index.m3u8
@@ -10185,6 +10200,16 @@ Perdedor
       +10  Logo
       +30  Calidad 1080p
        +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : fs.uplink.kz
+  URL        : https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -11291,6 +11316,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Setanta Sports 1 HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : fs.uplink.kz
+  URL        : https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 158.101.222.193:88
+  URL        : http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Setanta Sports (1080p)
 Motivo: Mayor puntuación
 
@@ -12121,13 +12172,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Sport 2 (Ukraine) (1080p)
+Canal: Sport 2 (Israel) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : stream.mcquack.net
-  URL        : http://stream.mcquack.net/392/index.m3u8
+  Dominio    : str2.iptvhd.ru:8080
+  URL        : http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -12143,6 +12194,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Sport 2 (Israel) (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : str2.iptvhd.ru:8080
+  URL        : http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/392/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -12987,13 +13065,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TeenNick (Israel) [Not 24/7]
+Canal: TeenNick (Israel) (406p)
 Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 315e5a5d.ottrast.com
-  URL        : http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
+  Dominio    : 89.33.29.115:8080
+  URL        : http://89.33.29.115:8080/TeenNick/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
