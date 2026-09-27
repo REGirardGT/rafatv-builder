@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 635
+Total de decisiones: 636
 
 Resumen de decisiones
 --------------------------------------------------
 Mayor puntuación     : 426
-Primer canal         : 205
+Primer canal         : 206
 Mayor resolución     : 3
 HTTPS                : 1
 
@@ -6037,21 +6037,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: La 1 (1080p)
+Canal: La 1 UHD (2160p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : 7nyaler.streamhostingcdn.top
-  URL        : https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 60
   Dominio    : 185.47.212.25:8080
   URL        : http://185.47.212.25:8080/tdp_HD/index.m3u8
@@ -6061,6 +6050,16 @@ Perdedor
       +10  Logo
       +15  Calidad HD
        +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : cdn.stmify.com
+  URL        : https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -6561,6 +6560,32 @@ Perdedor
       +10  Logo
       -10  Canal geo-blocked
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: MBC TV (India) (576p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : mumbai-edge.smartplaytv.in
+  URL        : https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 40
+  Dominio    : xyktmobile00.s.gy
+  URL        : https://xyktmobile00.s.gy/PPV930_S_OPERA_SD
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      -10  Canal geo-blocked
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -9946,13 +9971,38 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Premier Sports 2 (Philippines) (1080p)
+Canal: Premier Sports 2 (Ireland)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : 7nyaler.streamhostingcdn.top
+  URL        : https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : racitonsen.s.gy
+  URL        : https://racitonsen.s.gy/PS2PH
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Premier Sports (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 80
-  Dominio    : amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv
-  URL        : https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+  Dominio    : amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv
+  URL        : https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9961,13 +10011,14 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 50
-  Dominio    : 7nyaler.streamhostingcdn.top
-  URL        : https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
+  Puntuación : 65
+  Dominio    : racitonsen.s.gy
+  URL        : https://racitonsen.s.gy/PS1PH
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +15  Calidad HD
       +10  HTTPS
 
 --------------------------------------------------
@@ -11682,33 +11733,6 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
        +5  HTTP
-
---------------------------------------------------
-
-Canal: Sony Max (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : cloudplay-sonyliv.pages.dev
-  URL        : https://cloudplay-sonyliv.pages.dev/max.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 80
-  Dominio    : cloudplay-sonyliv.pages.dev
-  URL        : https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -13722,24 +13746,24 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Tigo Sports (Paraguay) (1080p)
-Motivo: Mayor puntuación
+Canal: Tigo Sports (Guatemala) (1080p)
+Motivo: Primer canal
 
 Ganador
-  Puntuación : 80
-  Dominio    : d3kzwqwnq1f7tq.cloudfront.net
-  URL        : https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
+  Puntuación : 75
+  Dominio    : 45.5.119.43:4000
+  URL        : http://45.5.119.43:4000/play/a05t/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-      +10  HTTPS
+       +5  HTTP
 
 Perdedor
   Puntuación : 75
-  Dominio    : 45.5.119.43:4000
-  URL        : http://45.5.119.43:4000/play/a05t/index.m3u8
+  Dominio    : 45.170.130.224:8000
+  URL        : http://45.170.130.224:8000/play/a04k/index.m3u8?hls
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15115,14 +15139,13 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 40
-  Dominio    : rtvelivestream-rtveplayplus.rtve.es
-  URL        : https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
+  Puntuación : 50
+  Dominio    : racitonsen.s.gy
+  URL        : https://racitonsen.s.gy/TVE_ASIA
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      -10  Canal geo-blocked
       +10  HTTPS
 
 --------------------------------------------------
