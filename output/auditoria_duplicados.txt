@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 647
+Total de decisiones: 648
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 438
-Primer canal         : 205
+Mayor puntuación     : 437
+Primer canal         : 207
 Mayor resolución     : 3
 HTTPS                : 1
 
@@ -57,32 +57,6 @@ Perdedor
   Puntuación : 45
   Dominio    : str2.iptvhd.ru:8080
   URL        : http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: 8XM HD
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : cdn4.mjunoon.tv:8087
-  URL        : https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 115.42.65.142:9981
-  URL        : http://115.42.65.142:9981/stream/channelid/582886861
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -1860,13 +1834,14 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 45
-  Dominio    : 138.121.15.230:9002
-  URL        : http://138.121.15.230:9002/CANAL-UNO/index.m3u8
+  Puntuación : 65
+  Dominio    : 38.134.250.110:8000
+  URL        : http://38.134.250.110:8000/play/a014/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +20  Calidad 720p
        +5  HTTP
 
 --------------------------------------------------
@@ -8109,14 +8084,14 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 75
-  Dominio    : nmk.ioapk.com:5050
-  URL        : http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
+  Puntuación : 65
+  Dominio    : 170.83.16.50
+  URL        : http://170.83.16.50/NHK_WORLD/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
+      +20  Calidad 720p
        +5  HTTP
 
 --------------------------------------------------
@@ -9188,6 +9163,35 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Oplot TV (1080p) [Geo-blocked]
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 65
+  Dominio    : 31.131.141.195:8000
+  URL        : http://31.131.141.195:8000/play/a006/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 31.131.139.253:9002
+  URL        : http://31.131.139.253:9002/oplot_hd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -12677,19 +12681,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: STAR Channel (720p)
+Canal: Star Channel (Colombia) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : live-fi.tvkaista.net
-  URL        : https://live-fi.tvkaista.net/star-channel/live.m3u8
+  Puntuación : 75
+  Dominio    : 190.61.47.54:8000
+  URL        : http://190.61.47.54:8000/play/a035/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
+      +30  Calidad 1080p
+       +5  HTTP
 
 Perdedor
   Puntuación : 65
@@ -12704,13 +12708,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Star Channel (Greece) (1080p)
+Canal: Star Channel (Colombia) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : livestar.siliconweb.com
-  URL        : http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+  Dominio    : 190.61.47.54:8000
+  URL        : http://190.61.47.54:8000/play/a035/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -12731,13 +12735,40 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Star Channel (Greece) (1080p)
+Canal: Star Channel (Colombia) (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 190.61.47.54:8000
+  URL        : http://190.61.47.54:8000/play/a035/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : livestar.siliconweb.com
+  URL        : http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Star Channel (Colombia) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : livestar.siliconweb.com
-  URL        : http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+  Dominio    : 190.61.47.54:8000
+  URL        : http://190.61.47.54:8000/play/a035/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -12757,13 +12788,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Star Channel (Greece) (1080p)
+Canal: Star Channel (Colombia) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : livestar.siliconweb.com
-  URL        : http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+  Dominio    : 190.61.47.54:8000
+  URL        : http://190.61.47.54:8000/play/a035/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13689,14 +13720,14 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 65
-  Dominio    : bantel-cdn1.iptvperu.tv:1935
-  URL        : http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
+  Puntuación : 75
+  Dominio    : 181.78.211.244:8005
+  URL        : http://181.78.211.244:8005/play/a0cc/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -14443,19 +14474,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Trece (Colombia) (720p)
+Canal: Trece (Colombia) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : liveingesta118.cdnmedia.tv
-  URL        : https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+  Puntuación : 75
+  Dominio    : 190.60.46.228:8888
+  URL        : http://190.60.46.228:8888/play/a030/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
+      +30  Calidad 1080p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -14469,19 +14500,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Trece (Colombia) (720p)
+Canal: Trece (Colombia) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : liveingesta118.cdnmedia.tv
-  URL        : https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+  Puntuación : 75
+  Dominio    : 190.60.46.228:8888
+  URL        : http://190.60.46.228:8888/play/a030/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
+      +30  Calidad 1080p
+       +5  HTTP
 
 Perdedor
   Puntuación : 50
