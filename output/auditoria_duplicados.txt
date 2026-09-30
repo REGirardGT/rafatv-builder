@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 648
+Total de decisiones: 653
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 437
+Mayor puntuación     : 442
 Primer canal         : 207
 Mayor resolución     : 3
 HTTPS                : 1
@@ -1444,6 +1444,32 @@ Perdedor
   Puntuación : 50
   Dominio    : jmp2.uk
   URL        : https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: BET (Canada) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : sra72yz.s.gy
+  URL        : https://sra72yz.s.gy/BET_CANADA_HD.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : jmp2.uk
+  URL        : https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -3590,10 +3616,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (India) HD (1080p)
-Motivo: Primer canal
+Canal: Disney Channel (Netherlands) HD (1080i)
+Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 80
+  Dominio    : masterofiptv.s.gy
+  URL        : https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 75
   Dominio    : 66.102.126.10:8000
   URL        : http://66.102.126.10:8000/play/a013/index.m3u8
@@ -3603,6 +3640,22 @@ Ganador
       +10  Logo
       +30  Calidad 1080p
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Disney Channel (Netherlands) HD (1080i)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : masterofiptv.s.gy
+  URL        : https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
 
 Perdedor
   Puntuación : 75
@@ -3617,19 +3670,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (India) HD (1080p)
-Motivo: Primer canal
+Canal: Disney Channel (Netherlands) HD (1080i)
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
-  Dominio    : 66.102.126.10:8000
-  URL        : http://66.102.126.10:8000/play/a013/index.m3u8
+  Puntuación : 80
+  Dominio    : masterofiptv.s.gy
+  URL        : https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
+      +10  HTTPS
 
 Perdedor
   Puntuación : 75
@@ -3644,19 +3697,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (India) HD (1080p)
+Canal: Disney Channel (Netherlands) HD (1080i)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
-  Dominio    : 66.102.126.10:8000
-  URL        : http://66.102.126.10:8000/play/a013/index.m3u8
+  Puntuación : 80
+  Dominio    : masterofiptv.s.gy
+  URL        : https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
+      +10  HTTPS
 
 Perdedor
   Puntuación : 50
@@ -3670,19 +3723,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (India) HD (1080p)
+Canal: Disney Channel (Netherlands) HD (1080i)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
-  Dominio    : 66.102.126.10:8000
-  URL        : http://66.102.126.10:8000/play/a013/index.m3u8
+  Puntuación : 80
+  Dominio    : masterofiptv.s.gy
+  URL        : https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
+      +10  HTTPS
 
 Perdedor
   Puntuación : 55
@@ -4595,18 +4648,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Fox (United States) (720p)
+Canal: Fox (Poland) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 65
-  Dominio    : stream.cammonitorplus.net
-  URL        : http://stream.cammonitorplus.net/1752/index.m3u8
+  Puntuación : 75
+  Dominio    : 57.128.231.171:8080
+  URL        : http://57.128.231.171:8080/249/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
        +5  HTTP
 
 Perdedor
@@ -4617,6 +4670,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Fox (Poland) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 57.128.231.171:8080
+  URL        : http://57.128.231.171:8080/249/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : stream.cammonitorplus.net
+  URL        : http://stream.cammonitorplus.net/1752/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
        +5  HTTP
 
 --------------------------------------------------
@@ -13995,13 +14075,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Tigo Sports (Guatemala) (1080p)
+Canal: Tigo Sports (El Salvador) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 45.5.119.43:4000
-  URL        : http://45.5.119.43:4000/play/a05t/index.m3u8
+  Dominio    : 45.167.2.101:8000
+  URL        : http://45.167.2.101:8000/play/a0pp/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -14023,13 +14103,67 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Tigo Sports (Guatemala) (1080p)
+Canal: Tigo Sports (El Salvador) (1080p)
 Motivo: Primer canal
 
 Ganador
   Puntuación : 75
+  Dominio    : 45.167.2.101:8000
+  URL        : http://45.167.2.101:8000/play/a0pp/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
   Dominio    : 45.5.119.43:4000
   URL        : http://45.5.119.43:4000/play/a05t/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Tigo Sports (El Salvador) (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 45.167.2.101:8000
+  URL        : http://45.167.2.101:8000/play/a0pp/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 168.196.127.137:6001
+  URL        : http://168.196.127.137:6001/play/a0ay/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Tigo Sports (El Salvador) (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 45.167.2.101:8000
+  URL        : http://45.167.2.101:8000/play/a0pp/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
