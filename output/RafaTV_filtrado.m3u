@@ -47,6 +47,9 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-name="CBS en espanol" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="España",CBS en espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
+#EXTINF:-1 tvg-id="Channel10.us@SD" tvg-name="Channel 10 (United States) (720p)" tvg-logo="https://spcity.org/ImageRepository/Document?documentID=4246" group-title="Estados Unidos",Channel 10 (United States) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
 #EXTINF:-1 tvg-id="Cheers.us@CA" tvg-name="Cheers (United States)" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Estados Unidos",Cheers (United States)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
@@ -59,6 +62,9 @@ http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="Cineenespanol.us@SD" tvg-name="Cine en espanol" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="España",Cine en espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:-1 tvg-id="ClickTVChile.cl@SD" tvg-name="ClickTV Chile (720p)" tvg-logo="https://i.imgur.com/H0XNbMS.png" group-title="Chile",ClickTV Chile (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-name="CMC-USA Country Music Channel (720p)" tvg-logo="https://i.imgur.com/QsANRSu.png" group-title="Estados Unidos",CMC-USA Country Music Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
@@ -89,18 +95,15 @@ https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966
 #EXTINF:-1 tvg-id="CusanoItaliaTV.it@SD" tvg-name="Cusano Italia TV (720p)" tvg-logo="https://i.imgur.com/fOluzuE.png" group-title="Estados Unidos",Cusano Italia TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD" tvg-name="Daystar TV Espanol (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png" group-title="España",Daystar TV Espanol (720p)
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD" tvg-name="Daystar TV Espanol (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png" group-title="España",Daystar TV Espanol (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
+http://167.249.23.102:8000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-id="DespertarTV.br@HD" tvg-name="Despertar TV (720p)" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="España",Despertar TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@HDEast" tvg-name="Disney Channel (United States) HD East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="Estados Unidos",Disney Channel (United States) HD East (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-name="Disney Channel Latin America Mexico (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="México",Disney Channel Latin America Mexico (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-name="Disney XD (United States) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Estados Unidos",Disney XD (United States) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -167,9 +170,6 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica" tvg-name="EWTN (United States) Spain & Latin America (720p)" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="España",EWTN (United States) Spain & Latin America (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.us@Spanish" tvg-name="EWTN (United States) Spanish (720p) [Geo-blocked]" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Estados Unidos",EWTN (United States) Spanish (720p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspana.es@SD" tvg-name="EWTN Espana" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="España",EWTN Espana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
@@ -233,6 +233,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vi
 #EXTINF:-1 tvg-id="Fox.us@WNYW" tvg-name="Fox (United States) WNYW (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="Estados Unidos",Fox (United States) WNYW (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WSVN" tvg-name="Fox (United States) WSVN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="Estados Unidos",Fox (United States) WSVN (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://190.197.41.183/Fox/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WTTG" tvg-name="Fox (United States) WTTG (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="Estados Unidos",Fox (United States) WTTG (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
@@ -275,9 +278,6 @@ https://vdochile.com:3134/stream/play.m3u8
 #EXTINF:-1 tvg-id="LogosTV.es@SD" tvg-name="Logos TV (Spain) (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="España",Logos TV (Spain) (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" tvg-name="Love Nature en Espanol (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="España",Love Nature en Espanol (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldUSA.ng@SD" tvg-name="LoveWorld USA (720p)" group-title="Estados Unidos",LoveWorld USA (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
@@ -488,9 +488,6 @@ https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" tvg-name="Presumiendo Mexico (720p)" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="México",Presumiendo Mexico (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTV.bo@SD" tvg-name="PTV (Bolivia) (720p)" tvg-logo="https://i.imgur.com/vPvR7dX.png" group-title="Bolivia",PTV (Bolivia) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
 #EXTINF:-1 tvg-id="QausainTV.ng@SD" tvg-name="Qausain TV (720p)" tvg-logo="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" group-title="Estados Unidos",Qausain TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
@@ -515,9 +512,6 @@ https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/in
 #EXTINF:-1 tvg-id="SenderNeuJerusalem.de@SD" tvg-name="Sender Neu Jerusalem (576p)" group-title="Estados Unidos",Sender Neu Jerusalem (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
-#EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-name="Sol TV (Guatemala) (720p)" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Guatemala",Sol TV (Guatemala) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.ar@SD" tvg-name="Sony Channel (Argentina) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Argentina",Sony Channel (Argentina) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://138.121.15.230:9002/SONY/index.m3u8
@@ -527,9 +521,6 @@ https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-name="Star Channel (Colombia) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Colombia",Star Channel (Colombia) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.61.47.54:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us@SD" tvg-name="Tastemade en Espanol (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="España",Tastemade en Espanol (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFeBolivia.bo@SD" tvg-name="Tele Fe Bolivia (720p)" group-title="Bolivia",Tele Fe Bolivia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
@@ -635,9 +626,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 #EXTINF:-1 tvg-id="Usadba.ru@SD" tvg-name="Usadba (576p)" tvg-logo="https://i.imgur.com/mf13haG.png" group-title="Estados Unidos",Usadba (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://stream.mcquack.net/211/index.m3u8
-#EXTINF:-1 tvg-id="VisionTV.gt@SD" tvg-name="Vision TV (Guatemala) (720p)" tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="Guatemala",Vision TV (Guatemala) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni@SD" tvg-name="Viva Nicaragua Canal 13 (720p)" tvg-logo="https://i.imgur.com/9q7Ajz4.png" group-title="Nicaragua",Viva Nicaragua Canal 13 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn.vivamediosni.com/viva_720p/index.m3u8
