@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 681
+Total de decisiones: 688
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 470
+Mayor puntuación     : 477
 Primer canal         : 207
 Mayor resolución     : 3
 HTTPS                : 1
@@ -1015,6 +1015,59 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: AXN (Spain) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 193.254.245.162
+  URL        : http://193.254.245.162/AXN/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 170.83.16.50
+  URL        : http://170.83.16.50/AXN/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: AXN Movies (Portugal) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : 50.7.120.34:8080
+  URL        : http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : cdn.stmify.com
+  URL        : https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Balapan HD (1080p)
 Motivo: Mayor puntuación
 
@@ -1310,14 +1363,13 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 40
-  Dominio    : vs-hls-pushb-uk-live.akamaized.net
-  URL        : https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
+  Puntuación : 50
+  Dominio    : cdn.stmify.com
+  URL        : https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      -10  Canal geo-blocked
       +10  HTTPS
 
 --------------------------------------------------
@@ -2397,8 +2449,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : lon1-y7p7cyzc7vdh.lolokoko.tv
-  URL        : https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8
+  Dominio    : xyktmobile00.s.gy
+  URL        : https://xyktmobile00.s.gy/ticketview/49092
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -3174,6 +3226,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Colors Cineplex HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 51.75.127.199:3141
+  URL        : http://51.75.127.199:3141/colorscineplexhd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : raw.githubusercontent.com
+  URL        : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -5693,6 +5771,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: History (Brazil) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : 45.177.114.114
+  URL        : http://45.177.114.114/HISTORY/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : dokagents.site
+  URL        : https://dokagents.site/live/history/mono.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: History (Slovenia) (1080p)
 Motivo: Mayor puntuación
 
@@ -7588,13 +7692,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: MTV (United States) (1080p)
+Canal: MTV (Poland) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 23.237.104.106:8080
-  URL        : http://23.237.104.106:8080/USA_MTV/index.m3u8
+  Dominio    : 57.128.231.171:8080
+  URL        : http://57.128.231.171:8080/227/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -7611,6 +7715,33 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: MTV (Poland) (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 57.128.231.171:8080
+  URL        : http://57.128.231.171:8080/227/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 23.237.104.106:8080
+  URL        : http://23.237.104.106:8080/USA_MTV/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -10828,8 +10959,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 80
-  Dominio    : mn-nl.mncdn.com
-  URL        : https://mn-nl.mncdn.com/primetv/live/index.m3u8
+  Dominio    : cdn.bestream.io
+  URL        : https://cdn.bestream.io/prime/prime.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -10876,18 +11007,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: PRO TV HD
+Canal: PRO TV HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 60
-  Dominio    : eb4b8dcf.kablakaka.ru
-  URL        : http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
+  Puntuación : 75
+  Dominio    : rpprod.hbbtv.cdn.cra.cz:8080
+  URL        : http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +15  Calidad HD
+      +30  Calidad 1080p
        +5  HTTP
 
 Perdedor
@@ -12536,33 +12667,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Sony Sports Ten 5 (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : cloudplay-sonyliv.pages.dev
-  URL        : https://cloudplay-sonyliv.pages.dev/ten5.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 80
-  Dominio    : cloudplay-sonyliv.pages.dev
-  URL        : https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Sophia TV (Germany) (720p)
 Motivo: Primer canal
 
@@ -13098,7 +13202,7 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Star Bharat HD (1080p)
+Canal: Star Bharat (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
@@ -13121,6 +13225,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Star Bharat (India) HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 51.75.127.199:3141
+  URL        : http://51.75.127.199:3141/starbharathd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : raw.githubusercontent.com
+  URL        : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -14888,6 +15018,34 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: TMC (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 151.80.18.177:86
+  URL        : http://151.80.18.177:86/TMC/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : tv.streambox.fr
+  URL        : http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: TNT4 HD (1080p)
 Motivo: Mayor puntuación
 
@@ -16209,6 +16367,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: TVC (Nigeria) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : tvce.gridpapaservers.com
+  URL        : https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 57.128.231.171:8080
+  URL        : http://57.128.231.171:8080/214/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: TVE Internacional America (1080p)
 Motivo: Mayor puntuación
 
@@ -16788,8 +16973,8 @@ Ganador
 
 Perdedor
   Puntuación : 80
-  Dominio    : mn-nl.mncdn.com
-  URL        : https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+  Dominio    : utviraqi-live.lg.mncdn.com
+  URL        : https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
