@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 692
+Total de decisiones: 691
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 479
+Mayor puntuación     : 478
 Primer canal         : 209
 Mayor resolución     : 3
 HTTPS                : 1
@@ -2621,6 +2621,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Channel 5 (Singapore) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : cdn.qd.je
+  URL        : https://cdn.qd.je/163189/ch5
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : str2.iptvhd.ru:8080
+  URL        : http://str2.iptvhd.ru:8080/5_kanal/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Channel 5 (Thailand) (1080p)
 Motivo: Mayor puntuación
 
@@ -2636,14 +2662,15 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 45
-  Dominio    : str2.iptvhd.ru:8080
-  URL        : http://str2.iptvhd.ru:8080/5_kanal/index.m3u8
+  Puntuación : 70
+  Dominio    : cdn.qd.je
+  URL        : https://cdn.qd.je/163189/ch5
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-       +5  HTTP
+      +20  Calidad 720p
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -3743,32 +3770,6 @@ Perdedor
   Puntuación : 50
   Dominio    : st.deltaboliviainstitucion.org:3778
   URL        : https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Digi Sport 1 HD (576i)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : dokagents.site
-  URL        : https://dokagents.site/live/digisport1/mono.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : 7nyaler.streamhostingcdn.top
-  URL        : https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5089,6 +5090,56 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Fox Sports (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 138.59.227.20:8000
+  URL        : http://138.59.227.20:8000/play/a085/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : d1jzu95oc8fgt3.cloudfront.net
+  URL        : https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+  Detalle:
+      +10  Grupo identificado
+      +30  Calidad 1080p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Fox Sports (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 138.59.227.20:8000
+  URL        : http://138.59.227.20:8000/play/a085/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 40
+  Dominio    : live-manifest.production-public.tubi.io
+  URL        : https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
+  Detalle:
+      +10  Grupo identificado
+      +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: France 4 HD (1080p)
 Motivo: Mayor puntuación
 
@@ -5740,32 +5791,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
-
---------------------------------------------------
-
-Canal: History (Brazil) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : 45.177.114.114
-  URL        : http://45.177.114.114/HISTORY/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : dokagents.site
-  URL        : https://dokagents.site/live/history/mono.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -9046,6 +9071,32 @@ Ganador
 
 Perdedor
   Puntuación : 50
+  Dominio    : zg9mhld.s.gy
+  URL        : https://zg9mhld.s.gy/HD-NICK-IT.ts
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Nickelodeon (Croatia) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/Nickelodeon/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
   Dominio    : onyx1.mofta1.cfd
   URL        : https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
   Detalle:
@@ -10861,32 +10912,6 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 50
-  Dominio    : dokagents.site
-  URL        : https://dokagents.site/live/primatv/mono.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Prima TV (Italy) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : 5db313b643fd8.streamlock.net
-  URL        : https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 60
   Dominio    : eb4b8dcf.kablakaka.ru
   URL        : http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
@@ -10925,21 +10950,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Pro Arena HD (1080i)
+Canal: Pro Arena (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : dokagents.site
-  URL        : https://dokagents.site/live/proarena/mono.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 75
   Dominio    : rpprod.hbbtv.cdn.cra.cz:8080
   URL        : http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
@@ -10948,6 +10962,17 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 60
+  Dominio    : eb4b8dcf.kablakaka.ru
+  URL        : http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
        +5  HTTP
 
 --------------------------------------------------
@@ -10976,32 +11001,6 @@ Perdedor
       +10  Logo
       +30  Calidad 1080p
        +5  HTTP
-
---------------------------------------------------
-
-Canal: PRO TV HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : rpprod.hbbtv.cdn.cra.cz:8080
-  URL        : http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : dokagents.site
-  URL        : https://dokagents.site/live/protv/mono.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -15856,8 +15855,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 178.76.68.60:7441
-  URL        : http://178.76.68.60:7441/7/mpegts
+  Dominio    : 178.76.68.60:7442
+  URL        : http://178.76.68.60:7442/7/mpegts
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -18188,29 +18187,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
-
---------------------------------------------------
-
-Canal: FOX Sports (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 50
-  Dominio    : d1jzu95oc8fgt3.cloudfront.net
-  URL        : https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-  Detalle:
-      +10  Grupo identificado
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 40
-  Dominio    : live-manifest.production-public.tubi.io
-  URL        : https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
-  Detalle:
-      +10  Grupo identificado
-      +20  Calidad 720p
-      +10  HTTPS
 
 --------------------------------------------------
 
