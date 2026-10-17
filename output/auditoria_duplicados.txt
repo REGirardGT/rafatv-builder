@@ -751,10 +751,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Arirang TV (1080p)
+Canal: Arirang TV HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 80
+  Dominio    : freem3u.xyz
+  URL        : https://freem3u.xyz/api/live/play.m3u8?vid=111
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 75
   Dominio    : amdlive-ch01.ctnd.com.edgesuite.net
   URL        : http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -763,17 +774,6 @@ Ganador
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 65
-  Dominio    : 45.162.64.114
-  URL        : http://45.162.64.114/ARIRANG/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
        +5  HTTP
 
 --------------------------------------------------
