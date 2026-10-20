@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 732
+Total de decisiones: 731
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 512
+Mayor puntuación     : 511
 Primer canal         : 214
 Mayor resolución     : 5
 HTTPS                : 1
@@ -92,32 +92,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: .red HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 178.134.1.158:8081
-  URL        : http://178.134.1.158:8081/red/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 5.188.159.128:8070
-  URL        : http://5.188.159.128:8070/RED/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: &TV HD (1080p)
 Motivo: Mayor puntuación
 
@@ -136,6 +110,32 @@ Perdedor
   Puntuación : 45
   Dominio    : 103.151.60.162:2122
   URL        : http://103.151.60.162:2122/play/a020/index.m3u8?hls
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: .red HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 178.134.1.158:8081
+  URL        : http://178.134.1.158:8081/red/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 5.188.159.128:8070
+  URL        : http://5.188.159.128:8070/RED/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -2362,14 +2362,13 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 40
-  Dominio    : www.canal10.com.ni
-  URL        : https://www.canal10.com.ni/envivo
+  Puntuación : 50
+  Dominio    : ddycmnicl95kp.cloudfront.net
+  URL        : https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      -10  Canal geo-blocked
       +10  HTTPS
 
 --------------------------------------------------
@@ -3890,7 +3889,7 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: DD Sports SD (1080p)
+Canal: DD Sports (1080p)
 Motivo: Mayor puntuación
 
 Ganador
@@ -4618,32 +4617,6 @@ Perdedor
   Puntuación : 45
   Dominio    : tvsen5.aynascope.net
   URL        : http://tvsen5.aynascope.net/disney/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Disney XD (United States) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : 23.237.104.106:8080
-  URL        : http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 185.227.34.179:8080
-  URL        : http://185.227.34.179:8080/disney-xd/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15257,13 +15230,12 @@ Canal: Tele Posadas (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
+  Puntuación : 60
   Dominio    : lbgo.bozztv.com
   URL        : https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
-      +10  Logo
       +20  Calidad 720p
       +10  HTTPS
 
