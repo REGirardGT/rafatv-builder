@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 700
+Total de decisiones: 699
 
 Resumen de decisiones
 --------------------------------------------------
 Mayor puntuación     : 499
-Primer canal         : 197
+Primer canal         : 196
 Mayor resolución     : 4
 
 ==================================================
@@ -88,32 +88,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: &TV HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 202.70.146.135:8000
-  URL        : http://202.70.146.135:8000/play/a06c/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 103.151.60.162:2122
-  URL        : http://103.151.60.162:2122/play/a020/index.m3u8?hls
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -776,19 +750,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: arte (France) (720p) [Geo-blocked]
-Motivo: Primer canal
+Canal: arte (France) (720p)
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 60
-  Dominio    : artesimulcast.akamaized.net
-  URL        : https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+  Puntuación : 70
+  Dominio    : c9851ec-rbm-hilv-fsly.cdn.redbee.live
+  URL        : https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
-      -10  Canal geo-blocked
       +10  HTTPS
 
 Perdedor
@@ -805,10 +778,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: arte (Germany) HD
+Canal: arte (France) (720p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 70
+  Dominio    : c9851ec-rbm-hilv-fsly.cdn.redbee.live
+  URL        : https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 65
   Dominio    : dash4.antik.sk
   URL        : https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
@@ -817,18 +801,6 @@ Ganador
       +10  Grupo identificado
       +10  Logo
       +15  Calidad HD
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 60
-  Dominio    : artesimulcast.akamaized.net
-  URL        : https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      -10  Canal geo-blocked
       +10  HTTPS
 
 --------------------------------------------------
@@ -1925,17 +1897,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: BSTV (Pakistan) (576p)
+Canal: BSTV (India) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : lbgo.bozztv.com
-  URL        : https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
+  Puntuación : 70
+  Dominio    : samitaorigin.tangotv.in
+  URL        : https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +20  Calidad 720p
       +10  HTTPS
 
 Perdedor
@@ -1947,6 +1920,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: BSTV (India) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : samitaorigin.tangotv.in
+  URL        : https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : lbgo.bozztv.com
+  URL        : https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -6195,34 +6194,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: HBO Asia HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : 2x2.me
-  URL        : https://2x2.me/yTKXaE
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 60
-  Dominio    : tinyurl.com
-  URL        : https://tinyurl.com/yn3d3rmd
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      -10  Canal geo-blocked
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: HGTV (Czech Republic)
 Motivo: Primer canal
 
@@ -6270,33 +6241,6 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: HGTV (Italy) (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : streaming.aurora.enhanced.live
-  URL        : https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 75
-  Dominio    : 57.128.231.171:8080
-  URL        : http://57.128.231.171:8080/241/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -18264,6 +18208,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Zee Tamil HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : d2o8pibksxtln6.cloudfront.net
+  URL        : https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 40
+  Dominio    : ev-eu-hw-fast-mpd.starzplayarabia.com
+  URL        : https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      -10  Canal geo-blocked
       +10  HTTPS
 
 --------------------------------------------------
