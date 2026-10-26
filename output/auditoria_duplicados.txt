@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 689
+Total de decisiones: 690
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 491
-Primer canal         : 193
+Mayor puntuación     : 493
+Primer canal         : 192
 Mayor resolución     : 5
 
 ==================================================
@@ -385,8 +385,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -395,8 +395,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/animal_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/animal_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -421,8 +421,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -1736,18 +1736,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Boing (Italy) (720p)
+Canal: Boing (Italy) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
+  Puntuación : 80
   Dominio    : boing.akamaized.net
   URL        : https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
       +10  HTTPS
 
 Perdedor
@@ -3919,8 +3919,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -3929,8 +3929,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/discovery_hungary/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/discovery_hungary/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -3955,8 +3955,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4169,8 +4169,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_disney/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_disney/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4204,10 +4204,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (Germany) (576p)
+Canal: Disney Channel (Germany) HD
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 60
+  Dominio    : 109.85.181.77:9981
+  URL        : http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+       +5  HTTP
+
+Perdedor
   Puntuación : 50
   Dominio    : s6.hopslan.com
   URL        : https://s6.hopslan.com/disneyX/index.m3u8
@@ -4217,10 +4228,26 @@ Ganador
       +10  Logo
       +10  HTTPS
 
+--------------------------------------------------
+
+Canal: Disney Channel (Germany) HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 60
+  Dominio    : 109.85.181.77:9981
+  URL        : http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+       +5  HTTP
+
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/disney_channel_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/disney_channel_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4244,14 +4271,15 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 50
-  Dominio    : s6.hopslan.com
-  URL        : https://s6.hopslan.com/disneyX/index.m3u8
+  Puntuación : 60
+  Dominio    : 109.85.181.77:9981
+  URL        : http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +15  Calidad HD
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -4421,8 +4449,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_disney_junior/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_disney_junior/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4456,8 +4484,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_disney_junior/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_disney_junior/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4483,6 +4511,32 @@ Perdedor
   Puntuación : 45
   Dominio    : tvsen5.aynascope.net
   URL        : http://tvsen5.aynascope.net/disney/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Disney XD (United States) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 89.187.179.148:826
+  URL        : http://89.187.179.148:826/1368/gXwiagaXda/1672
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 185.227.34.179:8080
+  URL        : http://185.227.34.179:8080/disney-xd/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4747,32 +4801,6 @@ Perdedor
   Puntuación : 50
   Dominio    : video1.getstreamhosting.com:1936
   URL        : https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: EMI TV HD (1080i)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : rpprod.hbbtv.cdn.cra.cz:8080
-  URL        : http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : astra.emitv.ro
-  URL        : https://astra.emitv.ro/hls/emi/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5366,8 +5394,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5376,8 +5404,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/film_plus_hun_atk/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/film_plus_hun_atk/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5417,8 +5445,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_food_network_atk_tv/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5427,8 +5455,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/fn_hungary/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/fn_hungary/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5453,8 +5481,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_food_network_atk_tv/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5845,8 +5873,8 @@ Ganador
 
 Perdedor
   Puntuación : 70
-  Dominio    : stmv4.voxtvhd.com.br
-  URL        : https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
+  Dominio    : vtm1.msinteractiva.com.
+  URL        : https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6092,31 +6120,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: H!t Music Channel (Hungary) (480p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 45
-  Dominio    : hitmusic.hu
-  URL        : http://hitmusic.hu/hitmusic.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : rpprod.hbbtv.cdn.cra.cz:8080
-  URL        : http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Happy Days (Sweden)
 Motivo: Primer canal
 
@@ -6158,8 +6161,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6173,8 +6176,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6183,8 +6186,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/hgtv_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/hgtv_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6209,8 +6212,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6314,8 +6317,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_history/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_history/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6340,8 +6343,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/history_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/history_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6756,8 +6759,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6766,8 +6769,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/id_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/id_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6792,8 +6795,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -7462,6 +7465,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: LCI HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 151.80.18.177:86
+  URL        : http://151.80.18.177:86/LCI_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 149.62.177.107:9999
+  URL        : http://149.62.177.107:9999/LCI/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Lider TV (Brazil) (720p)
 Motivo: Primer canal
 
@@ -7504,8 +7533,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/lifetv/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/lifetv/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -7740,8 +7769,8 @@ Ganador
 
 Perdedor
   Puntuación : 60
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -7756,8 +7785,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 75
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/m2_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/m2_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -8108,8 +8137,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/minimax_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/minimax_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -8604,8 +8633,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_ngc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_ngc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -8658,8 +8687,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/ngc_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/ngc_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -8896,8 +8925,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_ngw/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_ngw/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -8922,8 +8951,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/ngw_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/ngw_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9261,8 +9290,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_nick_jr/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_nick_jr/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9286,8 +9315,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/nick_junior_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/nick_junior_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9493,8 +9522,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9571,8 +9600,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9769,8 +9798,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_nicktoons/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_nicktoons/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9779,8 +9808,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/nicktoons_hungary/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/nicktoons_hungary/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9794,8 +9823,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_nicktoons/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_nicktoons/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9829,8 +9858,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_nicktoons/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_nicktoons/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -10438,8 +10467,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/otv/playlist.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/otv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -11314,8 +11343,8 @@ Ganador
 
 Perdedor
   Puntuación : 75
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/prima_avc_25p/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/prima_avc_25p/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -11341,8 +11370,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/prime/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/prime/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -12001,8 +12030,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13263,8 +13292,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_spektrum/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_spektrum/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13273,8 +13302,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/spektrum_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/spektrum_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13288,8 +13317,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_home_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_home_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13298,8 +13327,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/spektrum_home_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/spektrum_home_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13313,8 +13342,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/sport1_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/sport1_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13349,8 +13378,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/sport2_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/sport2_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13364,8 +13393,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13390,8 +13419,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -14648,8 +14677,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 60
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/fishing_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/fishing_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -14659,8 +14688,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -14949,8 +14978,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -14974,8 +15003,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/tlc_hungary/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/tlc_hungary/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15415,8 +15444,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_travel_channel_hd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15425,8 +15454,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/travel_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/travel_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15440,8 +15469,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_travel_channel_hd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15476,8 +15505,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_travel_channel_hd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15714,8 +15743,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/test_tv_2_hungary_1200_atk/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15876,8 +15905,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_tv_4_hun_atk_1200/playlist.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/test_tv_4_hun_atk_1200/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -16183,8 +16212,8 @@ Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_parpika_tv_sd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -16193,8 +16222,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/parpika_hun/index.m3u8
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/parpika_hun/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -16218,8 +16247,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_parpika_tv_sd_hevc/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -17178,8 +17207,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_viasat_explore_atk_tv/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -17282,8 +17311,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_viasat_history_atk_tv/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -17414,8 +17443,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 88.212.15.17
-  URL        : http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
