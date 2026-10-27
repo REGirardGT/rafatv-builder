@@ -41,12 +41,12 @@ http://190.109.2.92:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-name="Canal 5 (Mexico) XET-TDT (1080p)" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="México",Canal 5 (Mexico) XET-TDT (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="Canal9Cosespu.co@SD" tvg-name="Canal 9 Cosespu" tvg-logo="https://i.imgur.com/w5e1d8k.png" group-title="España",Canal 9 Cosespu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-name="Canal 10 (Costa Rica) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 (Costa Rica) (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (Chile) (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (Chile) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-name="Canal 26 (Argentina) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 (Argentina) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -65,9 +65,6 @@ https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-name="Chile Channel (720p)" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile",Chile Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl@SD" tvg-name="ChileVision (1080p)" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVision (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="Cineenespanol.us@SD" tvg-name="Cine en espanol" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="España",Cine en espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
@@ -125,9 +122,6 @@ http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Colombia" tvg-name="Discovery Kids Latin America Colombia (1080p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Colombia",Discovery Kids Latin America Colombia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Mexico" tvg-name="Discovery Kids Latin America Mexico (1080p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="México",Discovery Kids Latin America Mexico (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://38.65.175.84:8000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-name="Disney Channel Latin America Mexico (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="México",Disney Channel Latin America Mexico (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.166.93.156:9999/play/a0f3/index.m3u8
@@ -317,6 +311,9 @@ http://200.115.120.1:8000/play/ca066/index.m3u8
 #EXTINF:-1 tvg-id="HappyDays.us@CA" tvg-name="Happy Days (United States) CA" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="Estados Unidos",Happy Days (United States) CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
+#EXTINF:-1 tvg-id="HarvestUSA.in@SD" tvg-name="Harvest USA (576p)" group-title="Estados Unidos",Harvest USA (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HechosEcuador.ec@SD" tvg-name="Hechos Ecuador (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Ecuador",Hechos Ecuador (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
