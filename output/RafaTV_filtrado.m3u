@@ -20,6 +20,9 @@ http://185.227.34.179:8080/axn-white/index.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn@SD" tvg-name="Azteca Honduras (720p)" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="Honduras",Azteca Honduras (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="beIN SPORTS XTRA en Espanol (1080p)" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="España",beIN SPORTS XTRA en Espanol (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="BethelColombia.co@SD" tvg-name="Bethel Colombia (720p)" tvg-logo="https://i.imgur.com/BYdMsLL.png" group-title="Colombia",Bethel Colombia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://138.121.15.230:9002/BETHEL/index.m3u8
@@ -32,9 +35,6 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-name="Bob Esponja Pantalones Cuadrados (720p)" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="España",Bob Esponja Pantalones Cuadrados (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="Bolivia TV (1080p)" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Bolivia",Bolivia TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co@SD" tvg-name="Canal 1 (Colombia) (1080p)" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Colombia",Canal 1 (Colombia) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.109.2.92:8000/play/a010/index.m3u8
@@ -47,6 +47,9 @@ https://video2.lhdserver.es/canal9cosespu/live.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-name="Canal 10 (Costa Rica) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 (Costa Rica) (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (Chile) (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (Chile) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-name="Canal 26 (Argentina) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 (Argentina) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -65,6 +68,9 @@ https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-name="Chile Channel (720p)" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile",Chile Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl@SD" tvg-name="ChileVision (1080p)" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVision (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="Cineenespanol.us@SD" tvg-name="Cine en espanol" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="España",Cine en espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
@@ -77,9 +83,6 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-name="CMC-USA Country Music Channel (720p)" tvg-logo="https://i.imgur.com/QsANRSu.png" group-title="Estados Unidos",CMC-USA Country Music Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNChile.cl@SD" tvg-name="CNN Chile (1080p)" tvg-logo="https://i.imgur.com/t4EXijz.png" group-title="Chile",CNN Chile (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us@SD" tvg-name="CNN en Espanol (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="España",CNN en Espanol (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
@@ -89,6 +92,9 @@ https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-name="Comedy Central en Espanol" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="España",Comedy Central en Espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD" tvg-name="Comedy TV (United States) (720p)" tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="Estados Unidos",Comedy TV (United States) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-name="Costa Rica Channel (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica",Costa Rica Channel (576p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://video0.rogohosting.com:19360/8006/8006.m3u8
@@ -122,6 +128,9 @@ http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Colombia" tvg-name="Discovery Kids Latin America Colombia (1080p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Colombia",Discovery Kids Latin America Colombia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://38.134.250.110:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@ColombiaPeru" tvg-name="Discovery Science Latin America ColombiaPeru (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Colombia",Discovery Science Latin America ColombiaPeru (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-name="Disney Channel Latin America Mexico (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="México",Disney Channel Latin America Mexico (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.166.93.156:9999/play/a0f3/index.m3u8
@@ -209,9 +218,15 @@ https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV (1080p)" tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="España",Espreso TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 tvg-id="ESTV.us@SD" tvg-name="ESTV (United States) (720p)" tvg-logo="https://i.imgur.com/qHNV0f5.png" group-title="Estados Unidos",ESTV (United States) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD" tvg-name="Etna Espresso Channel (720p)" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="España",Etna Espresso Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Spain" tvg-name="Eurosport 1 Spain (576p)" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="España",Eurosport 1 Spain (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@AfricaAsia" tvg-name="EWTN (United States) Africa-Asia (720p)" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Estados Unidos",EWTN (United States) Africa-Asia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
@@ -317,6 +332,9 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19
 #EXTINF:-1 tvg-id="HechosEcuador.ec@SD" tvg-name="Hechos Ecuador (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Ecuador",Hechos Ecuador (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-id="HTV.us@Argentina" tvg-name="HTV Argentina (720p)" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Argentina",HTV Argentina (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
 #EXTINF:-1 tvg-id="iCarly.us@SD" tvg-name="iCarly (United States) SD" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Estados Unidos",iCarly (United States) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
@@ -527,9 +545,6 @@ https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@CA" tvg-name="Pluto TV True Crime (United States) CA" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="Estados Unidos",Pluto TV True Crime (United States) CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" tvg-name="Pluto TV Westerns (United States) CA" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="Estados Unidos",Pluto TV Westerns (United States) CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us@SD" tvg-name="Potta-Divine TV USA (480p)" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Estados Unidos",Potta-Divine TV USA (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
@@ -554,9 +569,6 @@ https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTINF:-1 tvg-id="RTN.ar@SD" tvg-name="RTN (Argentina) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Argentina",RTN (Argentina) (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-name="RTP (Bolivia) (1080p)" tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia",RTP (Bolivia) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://190.181.61.93:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-name="Runtime Espanol (720p)" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="España",Runtime Espanol (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
@@ -629,6 +641,9 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us@West" tvg-name="TNT (United States) West (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Estados Unidos",TNT (United States) West (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Argentina" tvg-name="TNT Latin America Argentina (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Argentina",TNT Latin America Argentina (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Colombia" tvg-name="TNT Latin America Colombia (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Colombia",TNT Latin America Colombia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://181.78.211.244:8005/play/a09g/index.m3u8
@@ -638,6 +653,9 @@ http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="Tokusato.us@Brazil" tvg-name="Tokusato" tvg-logo="https://i.imgur.com/tWpjXtl.png" group-title="Estados Unidos",Tokusato
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@Argentina" tvg-name="Tooncast Argentina (720p)" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Argentina",Tooncast Argentina (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us@CA" tvg-name="Totally Turtles (United States) CA (720p)" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="Estados Unidos",Totally Turtles (United States) CA (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
@@ -728,6 +746,3 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport" tvg-name="Fox Sp" group-title="Estados Unidos",Fox Sp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 tvg-id="CBS Sport" tvg-name="DAZN TV (720p)" group-title="Estados Unidos",DAZN TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
