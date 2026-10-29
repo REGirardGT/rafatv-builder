@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 693
+Total de decisiones: 696
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 490
+Mayor puntuación     : 493
 Primer canal         : 198
 Mayor resolución     : 5
 
@@ -3900,8 +3900,8 @@ Ganador
 
 Perdedor
   Puntuación : 80
-  Dominio    : d3qs3d2rkhfqrt.cloudfront.net
-  URL        : https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+  Dominio    : fta.ektv.in
+  URL        : https://fta.ektv.in/live/117/117_0.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -3934,6 +3934,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: DD Tamil HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : cdn.pishow.tv
+  URL        : https://cdn.pishow.tv/ott/live/1737/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : fta.ektv.in
+  URL        : https://fta.ektv.in/live/679/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -5042,32 +5068,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: ESTV (United States) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : a-cdn.klowdtv.com
-  URL        : https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : cloudfront44.lexanetwork.com:1344
-  URL        : https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: ETV (Guadeloupe) (1080p)
 Motivo: Mayor puntuación
 
@@ -5387,6 +5387,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: FashionTV (Russia) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : fashionlive.mediacdn.ru
+  URL        : http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : fta.ektv.in
+  URL        : https://fta.ektv.in/live/144/144_0.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: FGTV (South Korea) (720p)
 Motivo: Mayor puntuación
 
@@ -5431,32 +5457,6 @@ Perdedor
   Puntuación : 50
   Dominio    : webtvstream.bhtelecom.ba
   URL        : https://webtvstream.bhtelecom.ba/fightbox.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Film Now HD (1080i)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : lbgo.bozztv.com
-  URL        : https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : thor1.syndula1.cfd
-  URL        : https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6218,6 +6218,58 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: HBO 2 (Poland) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 185.227.34.179:8080
+  URL        : http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: HBO 3 (Poland) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 185.227.34.179:8080
+  URL        : http://185.227.34.179:8080/hbo-3-hd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -16211,6 +16263,32 @@ Perdedor
   Puntuación : 50
   Dominio    : dash4.antik.sk
   URL        : https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: TV 100 (Greece) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : gwebstream.net
+  URL        : https://gwebstream.net/hls/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : fta.ektv.in
+  URL        : https://fta.ektv.in/live/310/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
