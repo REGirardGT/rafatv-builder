@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 696
+Total de decisiones: 698
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 493
-Primer canal         : 198
+Mayor puntuación     : 494
+Primer canal         : 199
 Mayor resolución     : 5
 
 ==================================================
@@ -1893,6 +1893,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: BTL TV (Kenya) (720p) [Not 24/7]
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 70
+  Dominio    : goliveafrica.media:9998
+  URL        : https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 70
+  Dominio    : livecdn.live247stream.com
+  URL        : https://livecdn.live247stream.com/btl/tv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
       +10  HTTPS
 
 --------------------------------------------------
@@ -13051,6 +13078,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Sony Movies (United States) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : a-cdn.klowdtv.com
+  URL        : https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 45.162.64.114
+  URL        : http://45.162.64.114/SONY_MOVIES/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
        +5  HTTP
 
 --------------------------------------------------
