@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 698
+Total de decisiones: 694
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 494
+Mayor puntuación     : 490
 Primer canal         : 199
 Mayor resolución     : 5
 
@@ -1082,8 +1082,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : hls127.freeott.top:8080
-  URL        : http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
+  Dominio    : 85.14.32.26:8800
+  URL        : http://85.14.32.26:8800/udp/239.100.10.17:5000
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -1217,32 +1217,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: BBC Earth Romania HD (576p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 60
-  Dominio    : hls127.freeott.top:8080
-  URL        : http://hls127.freeott.top:8080/BG_The_World/video.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : iron1.jarvisx1.cfd
-  URL        : https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -2608,6 +2582,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Cartoon Network (India) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : drk6xq0vhn.gpcdn.net
+  URL        : https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 176.65.153.40:6002
+  URL        : http://176.65.153.40:6002/play/a013/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -4622,18 +4622,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney XD (United States) (1080p)
+Canal: Disney XD (United States) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
+  Puntuación : 65
   Dominio    : 89.187.179.148:826
   URL        : http://89.187.179.148:826/1368/gXwiagaXda/1672
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
+      +20  Calidad 720p
        +5  HTTP
 
 Perdedor
@@ -5066,32 +5066,6 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
        +5  HTTP
-
---------------------------------------------------
-
-Canal: ESPN Premium (Argentina) HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 158.172.155.130:8000
-  URL        : http://158.172.155.130:8000/play/a0ao/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : bantel-cdn1.iptvperu.tv:1936
-  URL        : https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -7879,32 +7853,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: LTV (Honduras) (720p) [Not 24/7]
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : 5e85d90130e77.streamlock.net
-  URL        : https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : live.cdnlivecdn.com
-  URL        : https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -14320,18 +14268,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: SUR TV (1080p)
-Motivo: Mayor puntuación
+Canal: SUR TV (720p)
+Motivo: Primer canal
 
 Ganador
-  Puntuación : 80
-  Dominio    : redirector.rudo.video
-  URL        : https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
+  Puntuación : 70
+  Dominio    : surtv-2.mddsoluciones.cl
+  URL        : https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
+      +20  Calidad 720p
       +10  HTTPS
 
 Perdedor
@@ -16851,19 +16799,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TVM (Chile) (720p)
+Canal: TVM (Mozambique) (480p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : streams.kanade.cl
-  URL        : https://streams.kanade.cl/canaltvm/index.m3u8
+  Puntuación : 45
+  Dominio    : 196.28.226.121:1935
+  URL        : http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
+       +5  HTTP
 
 Perdedor
   Puntuación : 35
@@ -16874,32 +16821,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       -10  Canal geo-blocked
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: TVM (Chile) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : streams.kanade.cl
-  URL        : https://streams.kanade.cl/canaltvm/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 196.28.226.121:1935
-  URL        : http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
@@ -16984,18 +16905,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TVR (Chile) (720p)
-Motivo: Primer canal
+Canal: TVR (Chile) (1080p) [Not 24/7]
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : unlimited1-cl.dps.live
-  URL        : https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+  Puntuación : 80
+  Dominio    : unlimited1-us.dps.live
+  URL        : https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
       +10  HTTPS
 
 Perdedor
@@ -17011,18 +16932,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TVR (Chile) (720p)
+Canal: TVR (Chile) (1080p) [Not 24/7]
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : unlimited1-cl.dps.live
-  URL        : https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+  Puntuación : 80
+  Dominio    : unlimited1-us.dps.live
+  URL        : https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
       +10  HTTPS
 
 Perdedor
@@ -17611,14 +17532,13 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 75
-  Dominio    : hls127.freeott.top:8080
-  URL        : http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
+  Puntuación : 45
+  Dominio    : 777905.live.tvstitch.com
+  URL        : http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -17775,32 +17695,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
-
---------------------------------------------------
-
-Canal: Vision TV (Guatemala) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : cdn.streamhispanatv.net:3076
-  URL        : https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : tv.arkeo.cl:1936
-  URL        : https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
