@@ -1,10 +1,13 @@
 #EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD" tvg-name="ABC-TV Paraguay" tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="Paraguay",ABC-TV Paraguay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 #EXTINF:-1 tvg-id="AlcanceTV.mx@SD" tvg-name="Alcance TV (Mexico) (720p)" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="México",Alcance TV (Mexico) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaParaguay.py@SD" tvg-name="America Paraguay (720p)" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",America Paraguay (720p)
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD" tvg-name="America Paraguay" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",America Paraguay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://45.170.130.224:8000/play/a02o/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@CzechRepublic" tvg-name="AXN Black (United States) Czech Republic" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Estados Unidos",AXN Black (United States) Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_black/playlist.m3u8
@@ -53,12 +56,6 @@ http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="Canal9Cosespu.co@SD" tvg-name="Canal 9 Cosespu" tvg-logo="https://i.imgur.com/w5e1d8k.png" group-title="España",Canal 9 Cosespu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
-#EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-name="Canal 10 (Costa Rica) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 (Costa Rica) (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (Chile) (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (Chile) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-name="Canal 26 (Argentina) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 (Argentina) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -77,9 +74,6 @@ https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-name="Chile Channel (720p)" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile",Chile Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl@SD" tvg-name="ChileVision (1080p)" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVision (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="Cineenespanol.us@SD" tvg-name="Cine en espanol" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="España",Cine en espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
@@ -224,6 +218,9 @@ https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV (1080p)" tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="España",Espreso TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD" tvg-name="Etna Espresso Channel (720p)" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="España",Etna Espresso Channel (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Spain" tvg-name="Eurosport 1 Spain (576p)" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="España",Eurosport 1 Spain (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
@@ -584,6 +581,9 @@ https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/in
 #EXTINF:-1 tvg-id="SenderNeuJerusalem.de@SD" tvg-name="Sender Neu Jerusalem (576p)" group-title="Estados Unidos",Sender Neu Jerusalem (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-name="Sol TV (Guatemala) (720p)" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Guatemala",Sol TV (Guatemala) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="SolTV.sv@SD" tvg-name="SolTV (El Salvador) (720p)" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="El Salvador",SolTV (El Salvador) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
@@ -656,6 +656,12 @@ http://181.78.211.244:8005/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-name="TNT Novelas Colombia (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Colombia",TNT Novelas Colombia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar@SD" tvg-name="TNT Sports (Argentina) SD (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Argentina",TNT Sports (Argentina) SD (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://181.78.79.131:8000/play/a0mo
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" tvg-name="TNT Sports Premium ArgentinaHD (1080p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Argentina",TNT Sports Premium ArgentinaHD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="Tokusato.us@Brazil" tvg-name="Tokusato" tvg-logo="https://i.imgur.com/tWpjXtl.png" group-title="Estados Unidos",Tokusato
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
@@ -683,6 +689,9 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaEspanhol.pt@SD" tvg-name="TV Mana Espanhol (1080p)" tvg-logo="https://i.imgur.com/sUlrSwP.png" group-title="España",TV Mana Espanhol (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversalEcuador.ec@SD" tvg-name="TV Universal Ecuador (720p)" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Ecuador",TV Universal Ecuador (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 #EXTINF:-1 tvg-id="TVUniversalUruguay.uy@SD" tvg-name="TV Universal Uruguay" tvg-logo="https://i.imgur.com/KD4aZ7W.jpeg" group-title="Uruguay",TV Universal Uruguay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.universal.org.uy/hls/0/stream.m3u8
