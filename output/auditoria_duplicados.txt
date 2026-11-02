@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 704
+Total de decisiones: 706
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 500
+Mayor puntuación     : 502
 Primer canal         : 199
 Mayor resolución     : 5
 
@@ -749,19 +749,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: arte (France) (720p)
+Canal: arte (France) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : c9851ec-rbm-hilv-fsly.cdn.redbee.live
-  URL        : https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+  Puntuación : 75
+  Dominio    : 5.180.164.197:8080
+  URL        : http://5.180.164.197:8080/ARTEFR/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
+      +30  Calidad 1080p
+       +5  HTTP
 
 Perdedor
   Puntuación : 60
@@ -777,19 +777,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: arte (France) (720p)
+Canal: arte (France) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : c9851ec-rbm-hilv-fsly.cdn.redbee.live
-  URL        : https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+  Puntuación : 75
+  Dominio    : 5.180.164.197:8080
+  URL        : http://5.180.164.197:8080/ARTEFR/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
+      +30  Calidad 1080p
+       +5  HTTP
 
 Perdedor
   Puntuación : 65
@@ -3728,32 +3728,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: Comedy TV (United States) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : a-cdn.klowdtv.com
-  URL        : https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 31.146.5.178:8087
-  URL        : http://31.146.5.178:8087/play/a00b/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -8513,33 +8487,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Mooz Dance HD (1080i) [Geo-blocked]
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : meta.vcdn.biz
-  URL        : https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      -10  Canal geo-blocked
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : tvextra-hls.b-cdn.net
-  URL        : https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: MTV (Germany)
 Motivo: Mayor puntuación
 
@@ -12367,6 +12314,58 @@ Perdedor
   Puntuación : 50
   Dominio    : budapest-cache-1.antik.sk
   URL        : https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: RTL Super HD (576p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : s6.hopslan.com
+  URL        : https://s6.hopslan.com/superX/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : dash4.antik.sk
+  URL        : https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: RTL Zwei HD (576p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : s6.hopslan.com
+  URL        : https://s6.hopslan.com/rtl2q/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : dash4.antik.sk
+  URL        : https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -17718,6 +17717,32 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 45
+  Dominio    : 193.33.39.108:9007
+  URL        : http://193.33.39.108:9007/play/a00p
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Viasat History (Bulgaria) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 50
   Dominio    : arwen1.panaka1.cfd
   URL        : https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
@@ -17826,6 +17851,32 @@ Perdedor
   Puntuación : 45
   Dominio    : 88.212.15.50
   URL        : http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Viasat Nature (Bulgaria) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : shift03.isp.bg
+  URL        : https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 193.33.39.108:9000
+  URL        : http://193.33.39.108:9000/play/a05r
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
