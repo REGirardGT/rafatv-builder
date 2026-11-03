@@ -2,13 +2,13 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 706
+Total de decisiones: 708
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 502
-Primer canal         : 199
-Mayor resolución     : 5
+Mayor puntuación     : 501
+Primer canal         : 201
+Mayor resolución     : 6
 
 ==================================================
 
@@ -800,6 +800,31 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +15  Calidad HD
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: AS TV (Romania) (576p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : s2.netstreaming.eu
+  URL        : https://s2.netstreaming.eu/astv.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : live.artidijitalmedya.com
+  URL        : https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -3444,8 +3469,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 125.227.210.55:1001
-  URL        : http://125.227.210.55:1001/VideoInput/play.ts
+  Dominio    : 202.150.165.66:8088
+  URL        : http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4568,6 +4593,33 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Disney Channel (India) HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 66.102.126.10:8000
+  URL        : http://66.102.126.10:8000/play/a013/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 4.30.180.36:8420
+  URL        : http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -7988,6 +8040,31 @@ Perdedor
       +10  Logo
       +30  Calidad 1080p
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Love Nature 4K Czechia
+Motivo: Mayor resolución
+
+Ganador
+  Puntuación : 45
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_lovenature/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -15189,58 +15266,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Tigo Sports (El Salvador) (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 45.167.2.101:8000
-  URL        : http://45.167.2.101:8000/play/a0pp/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 45.134.141.161:2200
-  URL        : http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Timeless Dizi Channel (Poland) (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : hls127.freeott.top:8080
-  URL        : http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : atlantida1.aquax1.cfd
-  URL        : https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Times Now Navbharat (1080p)
 Motivo: Primer canal
 
@@ -15528,6 +15553,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: TNT Novelas Colombia (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 190.61.47.54:8000
+  URL        : http://190.61.47.54:8000/play/a02f/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 181.78.79.131:8000
+  URL        : http://181.78.79.131:8000/play/a0na
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
