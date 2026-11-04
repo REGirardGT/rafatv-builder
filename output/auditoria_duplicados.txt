@@ -2,13 +2,13 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 708
+Total de decisiones: 711
 
 Resumen de decisiones
 --------------------------------------------------
 Mayor puntuación     : 501
-Primer canal         : 201
-Mayor resolución     : 6
+Primer canal         : 203
+Mayor resolución     : 7
 
 ==================================================
 
@@ -2017,8 +2017,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 213.91.179.28:8000
-  URL        : http://213.91.179.28:8000/play/a03w
+  Dominio    : 85.11.189.178:8080
+  URL        : http://85.11.189.178:8080/bTV/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5778,32 +5778,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Fox Sports 2 (United States) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : tvsen7.aynascope.net
-  URL        : https://tvsen7.aynascope.net/foxsports2/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : zapster.trapemn.tv:1936
-  URL        : https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Fox Sports (1080p)
 Motivo: Mayor puntuación
 
@@ -8275,6 +8249,31 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       -10  Canal geo-blocked
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: MCM Top (France)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 45
+  Dominio    : 185.228.163.146:8000
+  URL        : http://185.228.163.146:8000/play/a00g/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 46.32.176.50
+  URL        : http://46.32.176.50/mcmtop/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
@@ -11687,6 +11686,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Prima TV (Italy) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : 5db313b643fd8.streamlock.net
+  URL        : https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 89.44.231.73:7000
+  URL        : http://89.44.231.73:7000/primatv
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Prime (Syria) (1080p)
 Motivo: Mayor puntuación
 
@@ -14139,21 +14164,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Star Movies (India) HD (1080p)
-Motivo: Mayor puntuación
+Canal: Star Movies (Portugal)
+Motivo: Primer canal
 
 Ganador
-  Puntuación : 75
-  Dominio    : 103.151.60.162:2122
-  URL        : http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
   Puntuación : 45
   Dominio    : znty.dyndns.org:5010
   URL        : http://znty.dyndns.org:5010/hls/foxm.m3u8
@@ -14161,22 +14175,6 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Star Movies (India) HD (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 103.151.60.162:2122
-  URL        : http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
        +5  HTTP
 
 Perdedor
@@ -15951,6 +15949,31 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Travelxp 4K Czechia
+Motivo: Mayor resolución
+
+Ganador
+  Puntuación : 45
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/travel_xp_4k/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/travel_xp/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Trece (Colombia) (1080p)
 Motivo: Mayor puntuación
 
@@ -17217,6 +17240,60 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: TVP1 (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 57.128.210.196:8080
+  URL        : http://57.128.210.196:8080/144/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : srv7.flussonic111.com
+  URL        : https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: TVP2 (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 57.128.210.196:8080
+  URL        : http://57.128.210.196:8080/143/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : srv7.flussonic111.com
+  URL        : https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
       +10  HTTPS
 
 --------------------------------------------------
