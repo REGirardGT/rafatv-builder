@@ -2,11 +2,11 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 711
+Total de decisiones: 712
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 501
+Mayor puntuación     : 502
 Primer canal         : 203
 Mayor resolución     : 7
 
@@ -588,6 +588,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Antena 1 (Peru) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : bantel-cdn1.iptvperu.tv:1935
+  URL        : http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 65
+  Dominio    : live77cdn2.antenaplay.ro
+  URL        : https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
       +10  HTTPS
 
 --------------------------------------------------
