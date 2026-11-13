@@ -2,42 +2,16 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 711
+Total de decisiones: 710
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 486
+Mayor puntuación     : 485
 Primer canal         : 215
 Mayor resolución     : 9
 HTTPS                : 1
 
 ==================================================
-
-Canal: 1+1 International HD (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : dash2.antik.sk
-  URL        : https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 158.101.222.193:88
-  URL        : http://158.101.222.193:88/georgia_play.php?id=1plus1international
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
 
 Canal: 24 News HD
 Motivo: Mayor puntuación
@@ -1811,6 +1785,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Boomerang (United States) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : 23.237.104.106:8080
+  URL        : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : live-us1.thaimomo.com
+  URL        : https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -6298,31 +6298,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: GMS TV (Senegal) (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : acasmedia6.acangroup.org
-  URL        : https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 35
-  Dominio    : 158.101.222.193:88
-  URL        : http://158.101.222.193:88/georgia_play.php?id=gms
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -15085,14 +15060,14 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 45
-  Dominio    : 190.122.104.210:5080
-  URL        : http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+  Puntuación : 50
+  Dominio    : hls.tvabierta.net
+  URL        : https://hls.tvabierta.net/hls/023.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-       +5  HTTP
+      +10  HTTPS
 
 --------------------------------------------------
 
