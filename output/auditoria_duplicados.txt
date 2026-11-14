@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 710
+Total de decisiones: 711
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 485
-Primer canal         : 215
+Mayor puntuación     : 487
+Primer canal         : 214
 Mayor resolución     : 9
 HTTPS                : 1
 
@@ -7487,33 +7487,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Jalsha Movies (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : box.bbaria.net:8083
-  URL        : https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 75
-  Dominio    : 103.135.253.32:8080
-  URL        : http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Jersey Shore (Sweden)
 Motivo: Primer canal
 
@@ -8512,10 +8485,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Mega (Chile) (1080p)
-Motivo: Primer canal
+Canal: Mega (Spain) (1080p)
+Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 80
+  Dominio    : cdn.jsdelivr.net
+  URL        : https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 75
   Dominio    : tr.live.clarovtrcdn.vtrplay.com
   URL        : http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -8525,6 +8509,22 @@ Ganador
       +10  Logo
       +30  Calidad 1080p
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Mega (Spain) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : cdn.jsdelivr.net
+  URL        : https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
 
 Perdedor
   Puntuación : 75
@@ -9766,13 +9766,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nick Jr. (Croatia) (540p)
+Canal: Nick Jr. (Croatia) (576p)
 Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 176.61.157.250
-  URL        : http://176.61.157.250/NickJr/index.m3u8
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9791,13 +9791,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nick Jr. (Croatia) (540p)
+Canal: Nick Jr. (Croatia) (576p)
 Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 176.61.157.250
-  URL        : http://176.61.157.250/NickJr/index.m3u8
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9816,13 +9816,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nick Jr. (Croatia) (540p)
+Canal: Nick Jr. (Croatia) (576p)
 Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 176.61.157.250
-  URL        : http://176.61.157.250/NickJr/index.m3u8
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9841,13 +9841,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nick Jr. (Croatia) (540p)
+Canal: Nick Jr. (Croatia) (576p)
 Motivo: Primer canal
 
 Ganador
   Puntuación : 45
-  Dominio    : 176.61.157.250
-  URL        : http://176.61.157.250/NickJr/index.m3u8
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9882,8 +9882,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 176.61.157.250
-  URL        : http://176.61.157.250/NickJr/index.m3u8
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -10022,10 +10022,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
+Canal: Nickelodeon (Croatia) (720p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
+
+Perdedor
   Puntuación : 50
   Dominio    : stmv2.srvif.com
   URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
@@ -10034,6 +10045,22 @@ Ganador
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Nickelodeon (Croatia) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -10047,18 +10074,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
-Motivo: Primer canal
+Canal: Nickelodeon (Croatia) (720p)
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : stmv2.srvif.com
-  URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 50
@@ -10072,18 +10100,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
+Canal: Nickelodeon (Croatia) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : stmv2.srvif.com
-  URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -10097,18 +10126,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
+Canal: Nickelodeon (Croatia) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : stmv2.srvif.com
-  URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -10122,18 +10152,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
+Canal: Nickelodeon (Croatia) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : stmv2.srvif.com
-  URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -10147,18 +10178,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
+Canal: Nickelodeon (Croatia) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : stmv2.srvif.com
-  URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -10172,18 +10204,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
+Canal: Nickelodeon (Croatia) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : stmv2.srvif.com
-  URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -10197,18 +10230,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
+Canal: Nickelodeon (Croatia) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : stmv2.srvif.com
-  URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -10222,18 +10256,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (Brazil) (480p)
+Canal: Nickelodeon (Croatia) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : stmv2.srvif.com
-  URL        : https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+  Puntuación : 65
+  Dominio    : 5.175.174.49:1234
+  URL        : http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -10447,6 +10482,33 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nova (Serbia) (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 80
+  Dominio    : best-str.umn.cdn.united.cloud
+  URL        : https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 80
+  Dominio    : cdn.jsdelivr.net
+  URL        : https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -11804,32 +11866,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: Prima (Czech Republic) (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 88.212.15.50
-  URL        : http://88.212.15.50/live/prima_avc_25p/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 92.180.26.103
-  URL        : http://92.180.26.103/stream/80/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
