@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 723
+Total de decisiones: 734
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 501
-Primer canal         : 212
+Mayor puntuación     : 510
+Primer canal         : 214
 Mayor resolución     : 9
 HTTPS                : 1
 
@@ -80,15 +80,15 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 75
-  Dominio    : 103.213.31.109:90
-  URL        : http://103.213.31.109:90/AajtakHD/playlist.m3u8
+  Puntuación : 70
+  Dominio    : d1rc86nwwc9fag.cloudfront.net
+  URL        : https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
+      +20  Calidad 720p
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -1146,6 +1146,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: AXN (Portugal) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 188.115.15.121:8000
+  URL        : http://188.115.15.121:8000/play/a02z
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 60
+  Dominio    : 90.170.214.40:9700
+  URL        : http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: AXN Black (Germany)
 Motivo: Primer canal
 
@@ -1778,13 +1805,14 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 45
-  Dominio    : digisat.ddns.net:4022
-  URL        : http://digisat.ddns.net:4022/udp/239.0.5.177:8208
+  Puntuación : 75
+  Dominio    : 90.170.214.40:9700
+  URL        : http://90.170.214.40:9700/stream/avatel/boing/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -2612,18 +2640,18 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Canale 5 HD
+Canal: Canale 5 HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 65
-  Dominio    : live02-seg.msf.cdn.mediaset.net
-  URL        : https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+  Puntuación : 80
+  Dominio    : n-5-1.eu.cdn-redge.media
+  URL        : https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +15  Calidad HD
+      +30  Calidad 1080p
       +10  HTTPS
 
 Perdedor
@@ -2744,18 +2772,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Cartoon Network (Pakistan)
+Canal: Cartoon Network (Japan) HD
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : vodzong.mjunoon.tv:8087
-  URL        : https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+  Puntuación : 60
+  Dominio    : 103.255.250.188:5002
+  URL        : http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +15  Calidad HD
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -2769,10 +2798,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Cartoon Network (Pakistan)
+Canal: Cartoon Network (Japan) HD
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 60
+  Dominio    : 103.255.250.188:5002
+  URL        : http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+       +5  HTTP
+
+Perdedor
   Puntuación : 50
   Dominio    : vodzong.mjunoon.tv:8087
   URL        : https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
@@ -2781,6 +2821,22 @@ Ganador
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Cartoon Network (Japan) HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 60
+  Dominio    : 103.255.250.188:5002
+  URL        : http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -2794,28 +2850,29 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Cartoon Network (United States) (1080p)
+Canal: Cartoon Network (Japan) HD
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : tvnow.hostless.app
-  URL        : https://tvnow.hostless.app/cartoon-network.m3u8
+  Puntuación : 60
+  Dominio    : 103.255.250.188:5002
+  URL        : http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
+      +15  Calidad HD
+       +5  HTTP
 
 Perdedor
-  Puntuación : 50
-  Dominio    : vodzong.mjunoon.tv:8087
-  URL        : https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+  Puntuación : 40
+  Dominio    : turnerlive.warnermediacdn.com
+  URL        : https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+      -10  Canal geo-blocked
       +10  HTTPS
 
 --------------------------------------------------
@@ -3757,6 +3814,33 @@ Perdedor
 --------------------------------------------------
 
 Canal: Comedy Central (France) (720p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 70
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 70
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Comedy Central (France) (720p)
 Motivo: Mayor puntuación
 
 Ganador
@@ -3809,10 +3893,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Comedy Central (France) (720p)
+Canal: Comedy Central (Spain) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 75
+  Dominio    : 90.170.214.40:9700
+  URL        : http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
   Puntuación : 70
   Dominio    : r.eu.cdn-redge.media
   URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
@@ -3822,6 +3917,22 @@ Ganador
       +10  Logo
       +20  Calidad 720p
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Comedy Central (Spain) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 90.170.214.40:9700
+  URL        : http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
 
 Perdedor
   Puntuación : 50
@@ -3831,33 +3942,6 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Comedy Central (United States) (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 80
-  Dominio    : tvnow.hostless.app
-  URL        : https://tvnow.hostless.app/comedy-central.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 70
-  Dominio    : r.eu.cdn-redge.media
-  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
       +10  HTTPS
 
 --------------------------------------------------
@@ -4634,6 +4718,32 @@ Ganador
        +5  HTTP
 
 Perdedor
+  Puntuación : 45
+  Dominio    : 103.255.250.188:5002
+  URL        : http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Disney Channel (Germany) HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 60
+  Dominio    : 109.85.181.77:9981
+  URL        : http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+       +5  HTTP
+
+Perdedor
   Puntuación : 50
   Dominio    : lb.iptvnetwork.net
   URL        : https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
@@ -4857,21 +4967,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Junior (United States) (720p)
+Canal: Disney Junior (Romania)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : tvnow.hostless.app
-  URL        : https://tvnow.hostless.app/disney-junior.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 50
   Dominio    : atlantida1.aquax1.cfd
   URL        : https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
@@ -4880,6 +4979,16 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : tvsen5.aynascope.net
+  URL        : http://tvsen5.aynascope.net/disney/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -6223,32 +6332,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: FunBox UHD SD (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : webtvstream.bhtelecom.ba
-  URL        : https://webtvstream.bhtelecom.ba/funbox.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 186.148.196.100:8000
-  URL        : http://186.148.196.100:8000/play/a00d
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: FX (United States) (720p)
 Motivo: Mayor puntuación
 
@@ -7543,19 +7626,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Italia 1 HD
+Canal: Italia 1 HD (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 60
-  Dominio    : 185.227.34.62
-  URL        : http://185.227.34.62/stream/21/index.m3u8
+  Puntuación : 70
+  Dominio    : n-5-1.eu.cdn-redge.media
+  URL        : https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +15  Calidad HD
-       +5  HTTP
+      +20  Calidad 720p
+      +10  HTTPS
 
 Perdedor
   Puntuación : 40
@@ -8989,6 +9072,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: MTV (France) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 103.255.250.188:5002
+  URL        : http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: MTV (United States) (1080p)
 Motivo: Mayor puntuación
 
@@ -10136,24 +10245,24 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nick Jr. (United States) (1080p)
-Motivo: Mayor puntuación
+Canal: Nick Jr. (Italy) (720p)
+Motivo: Primer canal
 
 Ganador
-  Puntuación : 80
-  Dominio    : tvnow.hostless.app
-  URL        : https://tvnow.hostless.app/nick-jr.m3u8
+  Puntuación : 65
+  Dominio    : 102.129.186.182:81
+  URL        : http://102.129.186.182:81/nick/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
+      +20  Calidad 720p
+       +5  HTTP
 
 Perdedor
   Puntuación : 65
-  Dominio    : 102.129.186.182:81
-  URL        : http://102.129.186.182:81/nick/index.m3u8
+  Dominio    : 212.5.144.156:8080
+  URL        : http://212.5.144.156:8080/nickjr/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -10490,6 +10599,33 @@ Ganador
       +10  HTTPS
 
 Perdedor
+  Puntuación : 60
+  Dominio    : 90.170.214.40:9700
+  URL        : http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (France) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 45
   Dominio    : 93.186.201.93
   URL        : http://93.186.201.93/stream/397/index.m3u8
@@ -10501,21 +10637,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nickelodeon (United States) (1080p)
+Canal: Nickelodeon (France) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : tvnow.hostless.app
-  URL        : https://tvnow.hostless.app/nickelodeon.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 70
   Dominio    : r.eu.cdn-redge.media
   URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
@@ -10524,6 +10649,16 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : cache0.wonvt.st
+  URL        : https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -10658,21 +10793,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Nicktoons (United States) (1080p)
+Canal: Nicktoons (France) (720p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : tvnow.hostless.app
-  URL        : https://tvnow.hostless.app/nicktoons.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 70
   Dominio    : r.eu.cdn-redge.media
   URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
@@ -10682,6 +10806,17 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
       +10  HTTPS
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 41.205.93.154
+  URL        : http://41.205.93.154/NICKTOONS/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -12622,6 +12757,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Rai 1 HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 75
+  Dominio    : team-tv.co:81
+  URL        : http://team-tv.co:81/rai1/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Rai 2 (1080p)
 Motivo: Mayor puntuación
 
@@ -13200,6 +13362,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  Calidad SD
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: RTS 1 (Switzerland) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : de1.dstv.cx
+  URL        : https://de1.dstv.cx/RTS1HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -14294,7 +14482,7 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Sport1 HD
+Canal: Sport1 (Czech Republic) HD
 Motivo: Mayor puntuación
 
 Ganador
@@ -14317,6 +14505,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Sport1 (Czech Republic) HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 60
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -16071,6 +16285,34 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: TMC (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 65
+  Dominio    : tv.streambox.fr
+  URL        : http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: TNT (Russia) HD (1080p)
 Motivo: Mayor puntuación
 
@@ -17762,6 +18004,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: TVN (Dominican Republic) (1080p) [Not 24/7]
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : 5790d294af2dc.streamlock.net
+  URL        : https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : bingbang.kotmiuaczek.workers.dev
+  URL        : https://bingbang.kotmiuaczek.workers.dev/?id=3342
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: TVNET (Turkiye) (1080p)
 Motivo: Mayor puntuación
 
@@ -18860,6 +19128,32 @@ Perdedor
   Puntuación : 50
   Dominio    : ncdn.telewebion.ir
   URL        : https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: ZDF HD (540p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : dash4.antik.sk
+  URL        : https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
