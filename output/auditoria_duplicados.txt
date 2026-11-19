@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 736
+Total de decisiones: 738
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 509
-Primer canal         : 216
+Mayor puntuación     : 512
+Primer canal         : 215
 Mayor resolución     : 10
 HTTPS                : 1
 
@@ -3066,6 +3066,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: CDN HD (1080p) [Geo-blocked]
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : cdn4.wind.do
+  URL        : https://cdn4.wind.do/streams/cdn37/cdn37_master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 187.245.231.226:8000
+  URL        : http://187.245.231.226:8000/play/a0ss/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Central TV (Mongolia) (1080p)
 Motivo: Mayor puntuación
 
@@ -5684,8 +5711,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 80
-  Dominio    : d27zlkxhgwrfgo.cloudfront.net
-  URL        : https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+  Dominio    : d1z9okhs5q5o80.cloudfront.net
+  URL        : https://d1z9okhs5q5o80.cloudfront.net/e8903f8e970841deb594cc7c7f11bc8a/etv6N316.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5710,8 +5737,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 80
-  Dominio    : d12ee3o8yfkkhd.cloudfront.net
-  URL        : https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+  Dominio    : d1qqzrxc7kpb0u.cloudfront.net
+  URL        : https://d1qqzrxc7kpb0u.cloudfront.net/v1/50e3ae620bd6496cb3ac4294c877c36a/airtTA6RA.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -6355,6 +6382,33 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Fubo Sports Network (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : dnf08l6u6uxnz.cloudfront.net
+  URL        : https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 107.167.16.138
+  URL        : http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -7779,6 +7833,31 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: JimJam (Romania) (576p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 50
+  Dominio    : rundle.tv
+  URL        : https://rundle.tv/proxy5.php?src=https%3A%2F%2Fsaruman1.tharen001.cfd%2Fjimy%2Fusergenq3n0lz7kr-got.htm
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 88.212.7.14
+  URL        : http://88.212.7.14/live/jim_jam_hun/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -15552,38 +15631,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TeenNick (Israel) (406p)
+Canal: TeenNick (Poland) (576i)
 Motivo: Primer canal
 
 Ganador
-  Puntuación : 45
-  Dominio    : 89.33.29.115:8080
-  URL        : http://89.33.29.115:8080/TeenNick/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
-Perdedor
   Puntuación : 45
   Dominio    : 92.114.85.87:8010
   URL        : http://92.114.85.87:8010/play/a009/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: TeenNick (Israel) (406p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 45
-  Dominio    : 89.33.29.115:8080
-  URL        : http://89.33.29.115:8080/TeenNick/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
