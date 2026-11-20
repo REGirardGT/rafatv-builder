@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 738
+Total de decisiones: 750
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 512
-Primer canal         : 215
+Mayor puntuación     : 517
+Primer canal         : 222
 Mayor resolución     : 10
 HTTPS                : 1
 
@@ -61,6 +61,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: .black HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a0ac/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a0s4/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -668,31 +694,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Arena Sport 1 Premium (Serbia) (360p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 45
-  Dominio    : telekomsrbije.com:2095
-  URL        : http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : telekomsrbije.com:2095
-  URL        : http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
@@ -4155,6 +4156,31 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Da Vinci (Poland) (576p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a0ad/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a0s6/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: DAZN 5 (720p)
 Motivo: Mayor puntuación
 
@@ -4616,6 +4642,32 @@ Ganador
 
 Perdedor
   Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11d/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Discovery Turbo (Italy) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : streaming.aurora.enhanced.live
+  URL        : https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
   Dominio    : 37.49.224.5
   URL        : http://37.49.224.5/stream/13/index.m3u8
   Detalle:
@@ -4771,8 +4823,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 103.255.250.188:5002
-  URL        : http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a124/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4781,39 +4833,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (Germany) HD
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 60
-  Dominio    : 109.85.181.77:9981
-  URL        : http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : lb.iptvnetwork.net
-  URL        : https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Disney Channel (Poland) HD (1080p)
+Canal: Disney Channel (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 185.227.34.179:8080
-  URL        : http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11r/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4834,13 +4860,92 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (Poland) HD (1080p)
+Canal: Disney Channel (India) HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11r/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 103.255.250.188:5002
+  URL        : http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Disney Channel (India) HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11r/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : lb.iptvnetwork.net
+  URL        : https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: Disney Channel (India) HD (1080p)
 Motivo: Primer canal
 
 Ganador
   Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11r/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
   Dominio    : 185.227.34.179:8080
   URL        : http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Disney Channel (India) HD (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11r/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4861,13 +4966,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (Poland) HD (1080p)
+Canal: Disney Channel (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 185.227.34.179:8080
-  URL        : http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11r/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4887,13 +4992,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (Poland) HD (1080p)
+Canal: Disney Channel (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 185.227.34.179:8080
-  URL        : http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11r/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5362,6 +5467,31 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: E! (Poland) (576p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a0kz/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : sultanios.alwaysdata.net
+  URL        : http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: EbS (1080p)
 Motivo: Primer canal
 
@@ -5815,15 +5945,15 @@ Canal: Eurosport (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 80
-  Dominio    : livetv.shamon-cable.net:8443
-  URL        : https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a118/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-      +10  HTTPS
+       +5  HTTP
 
 Perdedor
   Puntuación : 45
@@ -7573,6 +7703,31 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Investigation Discovery (Czech Republic)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 45
+  Dominio    : 88.212.15.50
+  URL        : http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a119/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Investigation Discovery (Russia) (1080p)
 Motivo: Mayor puntuación
 
@@ -7627,19 +7782,19 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: ION TV (720p)
+Canal: ION TV (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 65
-  Dominio    : 23.237.104.106:8080
-  URL        : http://23.237.104.106:8080/USA_ION/index.m3u8
+  Puntuación : 80
+  Dominio    : wurlewscripps.global.transmit.live
+  URL        : https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
+      +30  Calidad 1080p
+      +10  HTTPS
 
 Perdedor
   Puntuación : 50
@@ -9100,6 +9255,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: MNX HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11m/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11e/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Mohabat TV (Iran) (540p)
 Motivo: Primer canal
 
@@ -9177,66 +9358,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: MTV (France) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : r.eu.cdn-redge.media
-  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 65
-  Dominio    : maamusic.keralive.workers.dev
-  URL        : https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: MTV (France) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : r.eu.cdn-redge.media
-  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 103.255.250.188:5002
-  URL        : http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: MTV (United States) (1080p)
+Canal: MTV (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : 23.237.104.106:8080
-  URL        : http://23.237.104.106:8080/USA_MTV/index.m3u8
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a136/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9254,6 +9382,59 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: MTV (India) HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a136/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 103.255.250.188:5002
+  URL        : http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: MTV (India) HD (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a136/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : 23.237.104.106:8080
+  URL        : http://23.237.104.106:8080/USA_MTV/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -9617,6 +9798,33 @@ Ganador
 
 Perdedor
   Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a115/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: National Geographic (Croatia) (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 176.61.157.250
+  URL        : http://176.61.157.250/NationalGeographic/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
   Dominio    : 138.121.15.230:9002
   URL        : http://138.121.15.230:9002/NAT-GEO/index.m3u8
   Detalle:
@@ -9863,10 +10071,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: National Geographic Wild (Bulgaria)
-Motivo: Primer canal
+Canal: National Geographic Wild (India) HD (1080p)
+Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11h/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
   Puntuación : 45
   Dominio    : 213.91.179.28:8000
   URL        : http://213.91.179.28:8000/play/a0cu
@@ -9874,6 +10093,22 @@ Ganador
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: National Geographic Wild (India) HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11h/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 Perdedor
@@ -9888,10 +10123,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: National Geographic Wild (Romania)
+Canal: National Geographic Wild (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11h/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
   Puntuación : 50
   Dominio    : flash1.bogulus1.cfd
   URL        : https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
@@ -9900,31 +10146,22 @@ Ganador
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 213.91.179.28:8000
-  URL        : http://213.91.179.28:8000/play/a0cu
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
-Canal: National Geographic Wild (Romania)
-Motivo: Primer canal
+Canal: National Geographic Wild (India) HD (1080p)
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 50
-  Dominio    : flash1.bogulus1.cfd
-  URL        : https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11h/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +30  Calidad 1080p
+       +5  HTTP
 
 Perdedor
   Puntuación : 50
@@ -9938,65 +10175,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: National Geographic Wild (Russia) HD
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 60
-  Dominio    : 178.76.68.60:7442
-  URL        : http://178.76.68.60:7442/50/mpegts
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : flash1.bogulus1.cfd
-  URL        : https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: National Geographic Wild (Russia) HD
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 60
-  Dominio    : 178.76.68.60:7442
-  URL        : http://178.76.68.60:7442/50/mpegts
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : nord.ayakkabiparti.lol
-  URL        : https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: National Geographic Wild (Ukraine) (1080p)
+Canal: National Geographic Wild (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : dtv.vol.net.ua
-  URL        : http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11h/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -10013,6 +10198,59 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +15  Calidad HD
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: National Geographic Wild (India) HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11h/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 50
+  Dominio    : nord.ayakkabiparti.lol
+  URL        : https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: National Geographic Wild (India) HD (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11h/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : dtv.vol.net.ua
+  URL        : http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 --------------------------------------------------
@@ -10708,6 +10946,32 @@ Perdedor
   Puntuación : 45
   Dominio    : stream.mcquack.net
   URL        : http://stream.mcquack.net/443/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (France) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 90.170.214.40:9700
+  URL        : http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -12810,7 +13074,7 @@ Perdedor
 --------------------------------------------------
 
 Canal: QVC (Japan) (1080p)
-Motivo: Mayor puntuación
+Motivo: Primer canal
 
 Ganador
   Puntuación : 80
@@ -12824,14 +13088,14 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 70
-  Dominio    : qvc-amd-live.akamaized.net
-  URL        : https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+  Puntuación : 80
+  Dominio    : 653db23c.wurl.com
+  URL        : https://653db23c.wurl.com/v1/qvc_samsung/vizio_us/latest/main/hls/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
       +10  HTTPS
 
 --------------------------------------------------
@@ -13499,10 +13763,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: RTS 1 (Switzerland) (720p)
-Motivo: Mayor puntuación
+Canal: RTS 1 (Serbia) (720p) [Not 24/7]
+Motivo: Primer canal
 
 Ganador
+  Puntuación : 70
+  Dominio    : webtvstream.bhtelecom.ba
+  URL        : https://webtvstream.bhtelecom.ba/rts1.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 70
   Dominio    : r.eu.cdn-redge.media
   URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
@@ -13513,22 +13788,23 @@ Ganador
       +20  Calidad 720p
       +10  HTTPS
 
-Perdedor
-  Puntuación : 50
-  Dominio    : de1.dstv.cx
-  URL        : https://de1.dstv.cx/RTS1HD/index.m3u8
+--------------------------------------------------
+
+Canal: RTV 1 (Serbia) (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 212.200.230.50:1935
+  URL        : http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+      +30  Calidad 1080p
+       +5  HTTP
 
---------------------------------------------------
-
-Canal: RTV 1 (Netherlands) (720p)
-Motivo: Mayor puntuación
-
-Ganador
+Perdedor
   Puntuación : 70
   Dominio    : dy7fxpkq4ggk8.cloudfront.net
   URL        : https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
@@ -13538,15 +13814,6 @@ Ganador
       +10  Logo
       +20  Calidad 720p
       +10  HTTPS
-
-Perdedor
-  Puntuación : 40
-  Dominio    : 212.200.255.151
-  URL        : mmsh://212.200.255.151/rtv1
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
 
 --------------------------------------------------
 
@@ -13688,8 +13955,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 80
-  Dominio    : vgtrkregion-reg.cdnvideo.ru
-  URL        : https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+  Dominio    : stream.smotrim.ru
+  URL        : https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -14235,6 +14502,33 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Sony Max HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a123/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 70
+  Dominio    : drk6xq0vhn.gpcdn.net
+  URL        : https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -15363,6 +15657,33 @@ Perdedor
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: STV (Belarus) HD (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : ctv.dc.beltelecom.by
+  URL        : https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 65
+  Dominio    : 86.57.147.236
+  URL        : http://86.57.147.236/HLS/ctvby/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
        +5  HTTP
 
 --------------------------------------------------
@@ -16582,32 +16903,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Top TV (Serbia) (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 82.165.71.58:8081
-  URL        : http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : tvdatta.com:3084
-  URL        : https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Tortues Ninja TV (Germany) (720p)
 Motivo: Primer canal
 
@@ -17525,6 +17820,31 @@ Perdedor
   Puntuación : 50
   Dominio    : fta.ektv.in
   URL        : https://fta.ektv.in/live/310/master.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: TV AS (Romania)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : hls01ns.antenaplay.ro
+  URL        : https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : stream.toobimedia.org
+  URL        : https://stream.toobimedia.org/public/assabac.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
