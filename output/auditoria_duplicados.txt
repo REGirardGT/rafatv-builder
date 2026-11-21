@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 750
+Total de decisiones: 702
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 517
-Primer canal         : 222
+Mayor puntuación     : 520
+Primer canal         : 171
 Mayor resolución     : 10
 HTTPS                : 1
 
@@ -698,6 +698,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Apna Punjab TV (Canada) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : plus.gigabitcdn.net
+  URL        : https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : samitaorigin.tangotv.in
+  URL        : https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: Arirang TV HD (1080p)
 Motivo: Mayor puntuación
 
@@ -1146,10 +1172,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: AXN (Portugal) (1080p)
+Canal: AXN (Spain) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 80
+  Dominio    : vuvuu-geil-m3u8.yaskar661.workers.dev
+  URL        : https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 75
   Dominio    : 188.115.15.121:8000
   URL        : http://188.115.15.121:8000/play/a02z
@@ -1158,33 +1195,23 @@ Ganador
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : sultanios.alwaysdata.net
-  URL        : http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
 
-Canal: AXN (Portugal) (1080p)
-Motivo: Primer canal
+Canal: AXN (Spain) (1080p)
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 75
-  Dominio    : 188.115.15.121:8000
-  URL        : http://188.115.15.121:8000/play/a02z
+  Puntuación : 80
+  Dominio    : vuvuu-geil-m3u8.yaskar661.workers.dev
+  URL        : https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
+      +10  HTTPS
 
 Perdedor
   Puntuación : 75
@@ -1241,32 +1268,6 @@ Perdedor
   Puntuación : 45
   Dominio    : 85.14.32.26:8800
   URL        : http://85.14.32.26:8800/udp/239.100.10.17:5000
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: AXN Movies (Portugal) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : 50.7.120.34:8080
-  URL        : http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : sultanios.alwaysdata.net
-  URL        : http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -1737,31 +1738,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Best of The Drew Barrymore Show (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Biz TV (1080p)
 Motivo: Primer canal
 
@@ -1839,59 +1815,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
-
---------------------------------------------------
-
-Canal: Bondi Rescue (Sweden) (720p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Boomerang (France) HD (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : 41.205.93.154
-  URL        : http://41.205.93.154/BOOMERANG/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : sultanios.alwaysdata.net
-  URL        : http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
@@ -2639,33 +2562,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Canal+ Sport (France) (1080p) [Geo-blocked]
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 65
-  Dominio    : tv.streambox.fr
-  URL        : http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      -10  Canal geo-blocked
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 57.129.96.133:888
-  URL        : http://57.129.96.133:888/stream/92/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: Canale 5 HD (1080p)
 Motivo: Mayor puntuación
 
@@ -2742,33 +2638,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +15  Calidad HD
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Car Chase (Sweden) (720p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
       +10  HTTPS
 
 --------------------------------------------------
@@ -4079,31 +3948,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: CSI (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: CTN (United States) (720p)
 Motivo: Mayor puntuación
 
@@ -4153,31 +3997,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: Da Vinci (Poland) (576p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 45
-  Dominio    : 116.90.120.149:8000
-  URL        : http://116.90.120.149:8000/play/a0ad/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : 116.90.120.149:8000
-  URL        : http://116.90.120.149:8000/play/a0s6/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -4730,13 +4549,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Disney Channel (Germany) (576p)
+Canal: Disney Channel (France)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 50
-  Dominio    : s6.hopslan.com
-  URL        : https://s6.hopslan.com/disneyX/index.m3u8
+  Dominio    : vuvuu-geil-m3u8.yaskar661.workers.dev
+  URL        : https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -4752,6 +4571,31 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Disney Channel (France)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 50
+  Dominio    : vuvuu-geil-m3u8.yaskar661.workers.dev
+  URL        : https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : s6.hopslan.com
+  URL        : https://s6.hopslan.com/disneyX/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -4771,8 +4615,8 @@ Ganador
 
 Perdedor
   Puntuación : 50
-  Dominio    : s6.hopslan.com
-  URL        : https://s6.hopslan.com/disneyX/index.m3u8
+  Dominio    : vuvuu-geil-m3u8.yaskar661.workers.dev
+  URL        : https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -5309,31 +5153,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Doc Martin (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Dom kino Premium (1080p)
 Motivo: Primer canal
 
@@ -5464,31 +5283,6 @@ Perdedor
       +10  Logo
       +15  Calidad HD
       +10  HTTPS
-
---------------------------------------------------
-
-Canal: E! (Poland) (576p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 45
-  Dominio    : 116.90.120.149:8000
-  URL        : http://116.90.120.149:8000/play/a0kz/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : sultanios.alwaysdata.net
-  URL        : http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-       +5  HTTP
 
 --------------------------------------------------
 
@@ -6048,31 +5842,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Family Ties (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: FashionTV (Russia) (1080p)
 Motivo: Mayor puntuación
 
@@ -6434,31 +6203,6 @@ Perdedor
       +10  Logo
       +30  Calidad 1080p
        +5  HTTP
-
---------------------------------------------------
-
-Canal: Frasier (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6400c095498393000878a634.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -6909,31 +6653,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
-
---------------------------------------------------
-
-Canal: Happy Days (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -7523,32 +7242,7 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: iCarly (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: iCarly (United States) SD
+Canal: iCarly SD
 Motivo: Mayor puntuación
 
 Ganador
@@ -7565,7 +7259,7 @@ Ganador
 Perdedor
   Puntuación : 50
   Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
+  URL        : https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -7912,56 +7606,6 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
        +5  HTTP
-
---------------------------------------------------
-
-Canal: JAG (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Jersey Shore (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -8783,31 +8427,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: MacGyver (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Magic TV (Bulgaria) (720p)
 Motivo: Primer canal
 
@@ -8854,31 +8473,6 @@ Perdedor
   Puntuación : 50
   Dominio    : stmv6.voxtvhd.com.br
   URL        : https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Matlock (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9230,31 +8824,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Mission Impossible (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: MNX HD (1080p)
 Motivo: Mayor puntuación
 
@@ -9435,112 +9004,6 @@ Perdedor
       +10  Logo
       +30  Calidad 1080p
        +5  HTTP
-
---------------------------------------------------
-
-Canal: MTV Catfish (Sweden) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: MTV Dating (Sweden) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: MTV Reality (Sweden) (720p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: MTV Teen Mom (Sweden) (720p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -10281,56 +9744,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: NCIS (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: NCIS: Los Angeles (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Neo TV (Peru) (720p)
 Motivo: Mayor puntuación
 
@@ -10899,6 +10312,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
+
+--------------------------------------------------
+
+Canal: Nickelodeon (France) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : r.eu.cdn-redge.media
+  URL        : https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : vuvuu-geil-m3u8.yaskar661.workers.dev
+  URL        : https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -11640,31 +11079,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Numbers (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Oasis TV (Colombia) (720p) [Not 24/7]
 Motivo: Primer canal
 
@@ -11794,6 +11208,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
+Canal: One (Malta) (720p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 70
+  Dominio    : 2-fss-1.streamhoster.com
+  URL        : https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : r.il.cdn-redge.media
+  URL        : https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -11960,10 +11400,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Paramount Network (United States) (1080p)
+Canal: Paramount Network (Poland) (1080p)
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 80
+  Dominio    : guard.sekobes.workers.dev
+  URL        : https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
   Puntuación : 75
   Dominio    : 23.237.104.106:8080
   URL        : http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
@@ -11972,16 +11423,6 @@ Ganador
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 45
-  Dominio    : sultanios.alwaysdata.net
-  URL        : http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
@@ -12116,31 +11557,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Pluto TV Action (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -12296,56 +11712,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Pluto TV Horror (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Pluto TV Humor (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Pluto TV Motor (Germany)
 Motivo: Primer canal
 
@@ -12363,56 +11729,6 @@ Perdedor
   Puntuación : 50
   Dominio    : jmp2.uk
   URL        : https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Pluto TV Paranormal (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Pluto TV Sci-Fi (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -12514,56 +11830,6 @@ Perdedor
   Puntuación : 50
   Dominio    : jmp2.uk
   URL        : https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Pluto TV True Crime (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Pluto TV Westerns (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -13260,31 +12526,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Rawhide (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Ray TV HD
 Motivo: Primer canal
 
@@ -13389,32 +12630,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Ridiculousness (Germany) (720p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6996296087742204bff43147.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -13898,31 +13113,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Rugrats (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Russia-1 (1080p)
 Motivo: Primer canal
 
@@ -14372,13 +13562,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Smithsonian Channel Selects (Sweden)
-Motivo: Primer canal
+Canal: Sky Sport F1 (Italy)
+Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+  Dominio    : vuvuu-geil-m3u8.yaskar661.workers.dev
+  URL        : https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -14386,14 +13576,14 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+  Puntuación : 45
+  Dominio    : 94.130.48.67:8042
+  URL        : http://94.130.48.67:8042/stream/51/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +10  HTTPS
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -14559,6 +13749,32 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: Sony Sports Ten 1 HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11t/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a126/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: Sophia TV (Germany) (720p)
 Motivo: Primer canal
 
@@ -14586,56 +13802,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: South Park (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: South Park: Butters Collection (Germany)
 Motivo: Primer canal
 
@@ -14653,206 +13819,6 @@ Perdedor
   Puntuación : 50
   Dominio    : jmp2.uk
   URL        : https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park: Cartman Collection (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park: Cartman Collection (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park: Kenny Collection (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park: Kenny Collection (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park: Kyle Collection (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park: Kyle Collection (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park: Stan Collection (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: South Park: Stan Collection (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15482,10 +14448,21 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Star Movies (Portugal)
-Motivo: Primer canal
+Canal: Star Movies (India) HD (1080p)
+Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a13a/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
   Puntuación : 45
   Dominio    : znty.dyndns.org:5010
   URL        : http://znty.dyndns.org:5010/hls/foxm.m3u8
@@ -15493,6 +14470,22 @@ Ganador
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Star Movies (India) HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a13a/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
        +5  HTTP
 
 Perdedor
@@ -15504,31 +14497,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
-
---------------------------------------------------
-
-Canal: Star Trek: The Next Generation (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -15549,31 +14517,6 @@ Perdedor
   Puntuación : 50
   Dominio    : jmp2.uk
   URL        : https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Star Trek: Voyager (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -15924,31 +14867,6 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
        +5  HTTP
-
---------------------------------------------------
-
-Canal: Teen Mom (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -16400,81 +15318,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: The New Detectives (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: The New Detectives (Germany)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: The Wild Wild West (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: Tigo Sports (Bolivia) (720p) [Geo-blocked]
 Motivo: Primer canal
 
@@ -16663,13 +15506,13 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TLC (Russia) (1080p)
+Canal: TLC (India) HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 75
-  Dominio    : stream.mcquack.net
-  URL        : http://stream.mcquack.net/168/index.m3u8
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11g/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -16686,6 +15529,33 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +10  HTTPS
+
+--------------------------------------------------
+
+Canal: TLC (India) HD (1080p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11g/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 75
+  Dominio    : stream.mcquack.net
+  URL        : http://stream.mcquack.net/168/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
 
 --------------------------------------------------
 
@@ -16903,126 +15773,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Tortues Ninja TV (Germany) (720p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Tosh.0 (Sweden)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Totally Turtles (Germany) (720p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Totally Turtles (Germany) (720p)
+Canal: Trace Brazuca HD (1080p)
 Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +20  Calidad 720p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 50
-  Dominio    : jmp2.uk
-  URL        : https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: Trace Brazuca (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv
-  URL        : https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
   Puntuación : 80
   Dominio    : cdn-uw2-prod.tsv2.amagi.tv
   URL        : https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
@@ -17031,6 +15785,16 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 50
+  Dominio    : channels.trace.plus
+  URL        : https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
       +10  HTTPS
 
 --------------------------------------------------
@@ -18693,6 +17457,32 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +20  Calidad 720p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Unite8 Sports 1 HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 75
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a125/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 116.90.120.149:8000
+  URL        : http://116.90.120.149:8000/play/a11l/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
