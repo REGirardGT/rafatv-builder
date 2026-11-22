@@ -2,12 +2,12 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 702
+Total de decisiones: 699
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 520
-Primer canal         : 171
+Mayor puntuación     : 521
+Primer canal         : 167
 Mayor resolución     : 10
 HTTPS                : 1
 
@@ -8031,33 +8031,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: La Sexta (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : cdn.jsdelivr.net
-  URL        : https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 80
-  Dominio    : ignac16.github.io
-  URL        : https://ignac16.github.io/voxel-tv-streams/la6.mpd
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: LCI (1080p)
 Motivo: Mayor puntuación
 
@@ -9770,33 +9743,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Neox (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 80
-  Dominio    : cdn.jsdelivr.net
-  URL        : https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
-Perdedor
-  Puntuación : 80
-  Dominio    : ignac16.github.io
-  URL        : https://ignac16.github.io/voxel-tv-streams/neox.mpd
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-      +10  HTTPS
-
---------------------------------------------------
-
 Canal: News 24 (India) (720p)
 Motivo: Mayor puntuación
 
@@ -11185,24 +11131,24 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: Onda TV (Dominican Republic) (720p)
-Motivo: Primer canal
+Canal: Onda TV (Peru) (1080p)
+Motivo: Mayor puntuación
 
 Ganador
-  Puntuación : 70
-  Dominio    : cnn.hostlagarto.com
-  URL        : https://cnn.hostlagarto.com/ondatv/index.m3u8
+  Puntuación : 80
+  Dominio    : v4.tustreaming.cl:2020
+  URL        : https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +20  Calidad 720p
+      +30  Calidad 1080p
       +10  HTTPS
 
 Perdedor
   Puntuación : 70
-  Dominio    : live-evg5.tv360.bitel.com.pe
-  URL        : https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+  Dominio    : cnn.hostlagarto.com
+  URL        : https://cnn.hostlagarto.com/ondatv/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -16904,33 +16850,6 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: TVC (Ecuador) (1080p)
-Motivo: Primer canal
-
-Ganador
-  Puntuación : 75
-  Dominio    : 45.224.97.181:9999
-  URL        : http://45.224.97.181:9999/TVC/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
-  Puntuación : 75
-  Dominio    : 31.146.5.178:8087
-  URL        : http://31.146.5.178:8087/play/a009/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
---------------------------------------------------
-
 Canal: TVC (Nigeria) (1080p)
 Motivo: Mayor puntuación
 
@@ -17028,14 +16947,15 @@ Ganador
       +10  HTTPS
 
 Perdedor
-  Puntuación : 45
-  Dominio    : 103.172.29.30:9991
-  URL        : http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51
+  Puntuación : 40
+  Dominio    : rtvelivestream-rtveplayplus.rtve.es
+  URL        : https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-       +5  HTTP
+      -10  Canal geo-blocked
+      +10  HTTPS
 
 --------------------------------------------------
 
