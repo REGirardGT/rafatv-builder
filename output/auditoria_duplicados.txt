@@ -2,14 +2,14 @@
 Auditoría de duplicados
 ==================================================
 
-Total de decisiones: 683
+Total de decisiones: 688
 
 Resumen de decisiones
 --------------------------------------------------
-Mayor puntuación     : 508
-Primer canal         : 163
+Mayor puntuación     : 512
+Primer canal         : 166
 Mayor resolución     : 9
-HTTPS                : 3
+HTTPS                : 1
 
 ==================================================
 
@@ -672,21 +672,10 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: ANTV (Indonesia) HD (480p)
-Motivo: HTTPS
+Canal: ANTV (Indonesia) (720p)
+Motivo: Primer canal
 
 Ganador
-  Puntuación : 65
-  Dominio    : proxy-v.rctiplus.id
-  URL        : https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-      +10  HTTPS
-
-Perdedor
   Puntuación : 65
   Dominio    : 103.58.160.157:8278
   URL        : http://103.58.160.157:8278/720-ANTV/playlist.m3u8
@@ -696,22 +685,6 @@ Perdedor
       +10  Logo
       +20  Calidad 720p
        +5  HTTP
-
---------------------------------------------------
-
-Canal: ANTV (Indonesia) HD (480p)
-Motivo: HTTPS
-
-Ganador
-  Puntuación : 65
-  Dominio    : proxy-v.rctiplus.id
-  URL        : https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +15  Calidad HD
-      +10  HTTPS
 
 Perdedor
   Puntuación : 65
@@ -3630,6 +3603,33 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: City Channel HD (1080p)
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 80
+  Dominio    : live.skystream.in
+  URL        : https://live.skystream.in/live/citytv2924/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 70
+  Dominio    : dev.aftermind.xyz
+  URL        : https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +20  Calidad 720p
+      +10  HTTPS
+
+--------------------------------------------------
+
 Canal: City TV (Bulgaria) (576p) [Not 24/7]
 Motivo: Primer canal
 
@@ -6527,6 +6527,31 @@ Perdedor
 
 --------------------------------------------------
 
+Canal: H!t Music Channel (Hungary) (480p)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 45
+  Dominio    : hitmusic.hu
+  URL        : http://hitmusic.hu/hitmusic.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 91.235.165.117:8001
+  URL        : http://91.235.165.117:8001/play/a01e/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
 Canal: HBO 2 (Poland) (1080p)
 Motivo: Mayor puntuación
 
@@ -7775,8 +7800,8 @@ Motivo: Mayor puntuación
 
 Ganador
   Puntuación : 80
-  Dominio    : live.koryocdn.org
-  URL        : https://live.koryocdn.org/kctv/index.m3u8
+  Dominio    : stream.intchoson.com
+  URL        : https://stream.intchoson.com/kctv/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -9266,32 +9291,6 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 50
-  Dominio    : nord.ayakkabiparti.lol
-  URL        : https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
-
---------------------------------------------------
-
-Canal: National Geographic (Croatia) (1080p)
-Motivo: Mayor puntuación
-
-Ganador
-  Puntuación : 75
-  Dominio    : 176.61.157.250
-  URL        : http://176.61.157.250/NationalGeographic/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +30  Calidad 1080p
-       +5  HTTP
-
-Perdedor
   Puntuación : 45
   Dominio    : 82.47.42.44
   URL        : http://82.47.42.44/stream/405/index.m3u8
@@ -9481,10 +9480,22 @@ Perdedor
 
 --------------------------------------------------
 
-Canal: National Geographic Wild (Russia) HD
+Canal: National Geographic Wild (Turkiye) (1080p) [Geo-blocked]
 Motivo: Mayor puntuación
 
 Ganador
+  Puntuación : 70
+  Dominio    : saran-live.ercdn.net
+  URL        : https://saran-live.ercdn.net/natgeowild/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+      +10  HTTPS
+
+Perdedor
   Puntuación : 60
   Dominio    : 178.76.68.60:7442
   URL        : http://178.76.68.60:7442/50/mpegts
@@ -9494,16 +9505,6 @@ Ganador
       +10  Logo
       +15  Calidad HD
        +5  HTTP
-
-Perdedor
-  Puntuación : 50
-  Dominio    : nord.ayakkabiparti.lol
-  URL        : https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-  Detalle:
-      +20  TVG-ID válido
-      +10  Grupo identificado
-      +10  Logo
-      +10  HTTPS
 
 --------------------------------------------------
 
@@ -9522,15 +9523,16 @@ Ganador
        +5  HTTP
 
 Perdedor
-  Puntuación : 60
-  Dominio    : 178.76.68.60:7442
-  URL        : http://178.76.68.60:7442/50/mpegts
+  Puntuación : 70
+  Dominio    : saran-live.ercdn.net
+  URL        : https://saran-live.ercdn.net/natgeowild/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
       +10  Logo
-      +15  Calidad HD
-       +5  HTTP
+      +30  Calidad 1080p
+      -10  Canal geo-blocked
+      +10  HTTPS
 
 --------------------------------------------------
 
@@ -10148,8 +10150,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 178.76.68.60:7442
-  URL        : http://178.76.68.60:7442/64/mpegts
+  Dominio    : 91.235.165.117:8001
+  URL        : http://91.235.165.117:8001/play/a05z/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -10383,8 +10385,8 @@ Ganador
 
 Perdedor
   Puntuación : 45
-  Dominio    : 178.76.68.60:7442
-  URL        : http://178.76.68.60:7442/80/mpegts
+  Dominio    : 91.235.165.117:8001
+  URL        : http://91.235.165.117:8001/play/a061/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
@@ -11787,6 +11789,110 @@ Perdedor
       +10  Grupo identificado
       +10  Logo
       +30  Calidad 1080p
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Prima Sport 1 HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : rundle.tv
+  URL        : https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 91.235.165.117:8001
+  URL        : http://91.235.165.117:8001/play/a07x/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Prima Sport 2 HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : rundle.tv
+  URL        : https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 91.235.165.117:8001
+  URL        : http://91.235.165.117:8001/play/a07y/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Prima Sport 3 HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : rundle.tv
+  URL        : https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 91.235.165.117:8001
+  URL        : http://91.235.165.117:8001/play/a07z/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Prima Sport 4 HD
+Motivo: Mayor puntuación
+
+Ganador
+  Puntuación : 65
+  Dominio    : rundle.tv
+  URL        : https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+      +15  Calidad HD
+      +10  HTTPS
+
+Perdedor
+  Puntuación : 45
+  Dominio    : 91.235.165.117:8001
+  URL        : http://91.235.165.117:8001/play/a080/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
        +5  HTTP
 
 --------------------------------------------------
@@ -17377,6 +17483,31 @@ Perdedor
   Puntuación : 45
   Dominio    : 777905.live.tvstitch.com
   URL        : http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+--------------------------------------------------
+
+Canal: Viasat Kino (Romania) (576i)
+Motivo: Primer canal
+
+Ganador
+  Puntuación : 45
+  Dominio    : 91.235.165.117:8001
+  URL        : http://91.235.165.117:8001/play/a055/index.m3u8
+  Detalle:
+      +20  TVG-ID válido
+      +10  Grupo identificado
+      +10  Logo
+       +5  HTTP
+
+Perdedor
+  Puntuación : 45
+  Dominio    : dtv.vol.net.ua
+  URL        : http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
   Detalle:
       +20  TVG-ID válido
       +10  Grupo identificado
