@@ -20,6 +20,9 @@ https://america-live.argosworkspace.com/america/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@CzechRepublic" tvg-name="AXN Black (United States) Czech Republic" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Estados Unidos",AXN Black (United States) Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_black/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Hungary" tvg-name="AXN Black (United States) Hungary (576p)" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Estados Unidos",AXN Black (United States) Hungary (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://141.94.193.53/axn_black/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Poland" tvg-name="AXN Black (United States) Poland (576p)" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Estados Unidos",AXN Black (United States) Poland (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://185.227.34.179:8080/axn-black/index.m3u8
@@ -35,9 +38,6 @@ http://185.227.34.179:8080/axn-white/index.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn@SD" tvg-name="Azteca Honduras (720p)" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="Honduras",Azteca Honduras (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-name="beIN Sports USA (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="Estados Unidos",beIN Sports USA (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="beIN SPORTS XTRA en Espanol (1080p)" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="España",beIN SPORTS XTRA en Espanol (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
@@ -53,15 +53,15 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-name="Bob Esponja Pantalones Cuadrados (720p)" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="España",Bob Esponja Pantalones Cuadrados (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="Bolivia TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co@SD" tvg-name="Canal 1 (Colombia) (1080p)" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Colombia",Canal 1 (Colombia) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://190.109.2.92:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="Canal3.gt@SD" tvg-name="Canal 3 (Guatemala) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Canal3Guatemala%282022Logo%29.webp/1280px-Canal3Guatemala%282022Logo%29.webp.png" group-title="Guatemala",Canal 3 (Guatemala) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://181.119.177.253:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-name="Canal 5 (Mexico) XET-TDT (1080p)" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="México",Canal 5 (Mexico) XET-TDT (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="Canal9Cosespu.co@SD" tvg-name="Canal 9 Cosespu" tvg-logo="https://i.imgur.com/w5e1d8k.png" group-title="España",Canal 9 Cosespu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
@@ -182,9 +182,6 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-name="ESPN Latin America Colombia (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="España",ESPN Latin America Colombia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://181.78.211.244:8005/play/a08q/index.m3u8
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-name="ESPN Latin America Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="México",ESPN Latin America Mexico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-name="ESPNU HD (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="España",ESPNU HD (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
@@ -494,6 +491,9 @@ https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTINF:-1 tvg-id="RTN.ar@SD" tvg-name="RTN (Argentina) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Argentina",RTN (Argentina) (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-name="RTP (Bolivia) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="Bolivia",RTP (Bolivia) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://190.181.61.93:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-name="Runtime Espanol (720p)" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="España",Runtime Espanol (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
